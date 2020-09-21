@@ -1,0 +1,6 @@
+# each host must be reachable and passwordless login enabled
+# hostname,ovsname,portnum,direction
+netlab02,ovs20,1,rx
+netlab02,ovs20,3,tx
+netlab02,ovs20,11,tx
+netlab02,ovs20,12,tx
