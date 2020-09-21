@@ -1,0 +1,14 @@
+
+Flows Dictionary:
+
+---------------------------------------------
+Port: 0
+>output port: 0
+>srcIP: 192.168.1.1
+>dstIP: 192.168.1.2
+>first time: 0
+>last time: 0
+>frame counter: 0
+>bandwidth: 0.000000 bps
+
+
