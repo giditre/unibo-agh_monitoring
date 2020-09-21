@@ -1,0 +1,6194 @@
+{
+  "test-vm": {
+    "cpu_util": [
+      {
+        "timestamp": "2018-10-11T10:06:20+00:00",
+        "granularity": 10.0,
+        "value": 3.7432211142937586
+      },
+      {
+        "timestamp": "2018-10-11T10:06:30+00:00",
+        "granularity": 10.0,
+        "value": 3.5329365071754446
+      },
+      {
+        "timestamp": "2018-10-11T10:06:40+00:00",
+        "granularity": 10.0,
+        "value": 3.5891439163960768
+      },
+      {
+        "timestamp": "2018-10-11T10:06:50+00:00",
+        "granularity": 10.0,
+        "value": 42.25505068297611
+      },
+      {
+        "timestamp": "2018-10-11T10:07:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:40+00:00",
+        "granularity": 10.0,
+        "value": 7.168184497444881
+      },
+      {
+        "timestamp": "2018-10-11T10:08:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:00+00:00",
+        "granularity": 10.0,
+        "value": 1.3996078298860657
+      },
+      {
+        "timestamp": "2018-10-11T10:09:10+00:00",
+        "granularity": 10.0,
+        "value": 2.8047950776647754
+      },
+      {
+        "timestamp": "2018-10-11T10:09:20+00:00",
+        "granularity": 10.0,
+        "value": 3.693337219655741
+      },
+      {
+        "timestamp": "2018-10-11T10:09:30+00:00",
+        "granularity": 10.0,
+        "value": 3.900914764512278
+      },
+      {
+        "timestamp": "2018-10-11T10:09:40+00:00",
+        "granularity": 10.0,
+        "value": 3.9964725768387646
+      },
+      {
+        "timestamp": "2018-10-11T10:09:50+00:00",
+        "granularity": 10.0,
+        "value": 3.7047857908292343
+      },
+      {
+        "timestamp": "2018-10-11T10:10:00+00:00",
+        "granularity": 10.0,
+        "value": 3.1866438197582476
+      },
+      {
+        "timestamp": "2018-10-11T10:10:10+00:00",
+        "granularity": 10.0,
+        "value": 2.7242338797595163
+      },
+      {
+        "timestamp": "2018-10-11T10:10:20+00:00",
+        "granularity": 10.0,
+        "value": 3.092832289004146
+      },
+      {
+        "timestamp": "2018-10-11T10:10:30+00:00",
+        "granularity": 10.0,
+        "value": 2.599756662776364
+      },
+      {
+        "timestamp": "2018-10-11T10:10:40+00:00",
+        "granularity": 10.0,
+        "value": 3.358825861961086
+      },
+      {
+        "timestamp": "2018-10-11T10:10:50+00:00",
+        "granularity": 10.0,
+        "value": 3.7651334833948202
+      },
+      {
+        "timestamp": "2018-10-11T10:11:00+00:00",
+        "granularity": 10.0,
+        "value": 2.8959705465814864
+      },
+      {
+        "timestamp": "2018-10-11T10:11:10+00:00",
+        "granularity": 10.0,
+        "value": 2.9410341624835987
+      },
+      {
+        "timestamp": "2018-10-11T10:11:20+00:00",
+        "granularity": 10.0,
+        "value": 2.454939332823183
+      },
+      {
+        "timestamp": "2018-10-11T10:11:30+00:00",
+        "granularity": 10.0,
+        "value": 4.019551096533539
+      },
+      {
+        "timestamp": "2018-10-11T10:11:40+00:00",
+        "granularity": 10.0,
+        "value": 3.5851372225806286
+      },
+      {
+        "timestamp": "2018-10-11T10:11:50+00:00",
+        "granularity": 10.0,
+        "value": 41.91951308936797
+      },
+      {
+        "timestamp": "2018-10-11T10:12:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:30+00:00",
+        "granularity": 10.0,
+        "value": 8.005267465992622
+      },
+      {
+        "timestamp": "2018-10-11T10:13:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:50+00:00",
+        "granularity": 10.0,
+        "value": 1.5779252050829387
+      },
+      {
+        "timestamp": "2018-10-11T10:14:00+00:00",
+        "granularity": 10.0,
+        "value": 2.6016070126517143
+      },
+      {
+        "timestamp": "2018-10-11T10:14:10+00:00",
+        "granularity": 10.0,
+        "value": 3.698934385673676
+      },
+      {
+        "timestamp": "2018-10-11T10:14:20+00:00",
+        "granularity": 10.0,
+        "value": 3.492391568175233
+      },
+      {
+        "timestamp": "2018-10-11T10:14:30+00:00",
+        "granularity": 10.0,
+        "value": 3.6994998276233044
+      },
+      {
+        "timestamp": "2018-10-11T10:14:40+00:00",
+        "granularity": 10.0,
+        "value": 3.65250140116682
+      },
+      {
+        "timestamp": "2018-10-11T10:14:50+00:00",
+        "granularity": 10.0,
+        "value": 3.4378405610805816
+      },
+      {
+        "timestamp": "2018-10-11T10:15:00+00:00",
+        "granularity": 10.0,
+        "value": 4.002043843791024
+      },
+      {
+        "timestamp": "2018-10-11T10:15:10+00:00",
+        "granularity": 10.0,
+        "value": 3.522176240370061
+      },
+      {
+        "timestamp": "2018-10-11T10:15:20+00:00",
+        "granularity": 10.0,
+        "value": 3.6759454531705558
+      },
+      {
+        "timestamp": "2018-10-11T10:15:30+00:00",
+        "granularity": 10.0,
+        "value": 3.7056488911696985
+      },
+      {
+        "timestamp": "2018-10-11T10:15:40+00:00",
+        "granularity": 10.0,
+        "value": 3.6167415157668517
+      },
+      {
+        "timestamp": "2018-10-11T10:15:50+00:00",
+        "granularity": 10.0,
+        "value": 3.478612122309688
+      },
+      {
+        "timestamp": "2018-10-11T10:16:00+00:00",
+        "granularity": 10.0,
+        "value": 3.6981564690002036
+      },
+      {
+        "timestamp": "2018-10-11T10:16:10+00:00",
+        "granularity": 10.0,
+        "value": 3.449604157922878
+      },
+      {
+        "timestamp": "2018-10-11T10:16:20+00:00",
+        "granularity": 10.0,
+        "value": 46.40456121140891
+      },
+      {
+        "timestamp": "2018-10-11T10:16:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:00+00:00",
+        "granularity": 10.0,
+        "value": 8.295994693761852
+      },
+      {
+        "timestamp": "2018-10-11T10:18:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:30+00:00",
+        "granularity": 10.0,
+        "value": 3.2977140246381205
+      },
+      {
+        "timestamp": "2018-10-11T10:18:40+00:00",
+        "granularity": 10.0,
+        "value": 3.71180468618716
+      },
+      {
+        "timestamp": "2018-10-11T10:18:50+00:00",
+        "granularity": 10.0,
+        "value": 3.932942349701993
+      },
+      {
+        "timestamp": "2018-10-11T10:19:00+00:00",
+        "granularity": 10.0,
+        "value": 3.901924038743504
+      },
+      {
+        "timestamp": "2018-10-11T10:19:10+00:00",
+        "granularity": 10.0,
+        "value": 2.472570665217001
+      },
+      {
+        "timestamp": "2018-10-11T10:19:20+00:00",
+        "granularity": 10.0,
+        "value": 3.8652548018241584
+      },
+      {
+        "timestamp": "2018-10-11T10:19:30+00:00",
+        "granularity": 10.0,
+        "value": 3.6010705982888713
+      },
+      {
+        "timestamp": "2018-10-11T10:19:40+00:00",
+        "granularity": 10.0,
+        "value": 3.9841741673075988
+      },
+      {
+        "timestamp": "2018-10-11T10:19:50+00:00",
+        "granularity": 10.0,
+        "value": 3.899352742893341
+      },
+      {
+        "timestamp": "2018-10-11T10:20:00+00:00",
+        "granularity": 10.0,
+        "value": 3.8003739567973494
+      },
+      {
+        "timestamp": "2018-10-11T10:20:10+00:00",
+        "granularity": 10.0,
+        "value": 3.139778705002516
+      },
+      {
+        "timestamp": "2018-10-11T10:37:10+00:00",
+        "granularity": 10.0,
+        "value": 3.6436006925357987
+      },
+      {
+        "timestamp": "2018-10-11T10:53:40+00:00",
+        "granularity": 10.0,
+        "value": 3.9394353037526857
+      },
+      {
+        "timestamp": "2018-10-11T11:10:20+00:00",
+        "granularity": 10.0,
+        "value": 3.2850247198110165
+      },
+      {
+        "timestamp": "2018-10-11T11:27:00+00:00",
+        "granularity": 10.0,
+        "value": 3.724473961658465
+      },
+      {
+        "timestamp": "2018-10-11T11:43:50+00:00",
+        "granularity": 10.0,
+        "value": 3.502155449746173
+      },
+      {
+        "timestamp": "2018-10-11T12:00:20+00:00",
+        "granularity": 10.0,
+        "value": 3.6094120958566136
+      },
+      {
+        "timestamp": "2018-10-11T12:17:00+00:00",
+        "granularity": 10.0,
+        "value": 3.9275437802190027
+      },
+      {
+        "timestamp": "2018-10-11T12:33:40+00:00",
+        "granularity": 10.0,
+        "value": 3.444473984044475
+      },
+      {
+        "timestamp": "2018-10-11T12:36:10+00:00",
+        "granularity": 10.0,
+        "value": 4.222978842234535
+      },
+      {
+        "timestamp": "2018-10-11T12:36:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:36:40+00:00",
+        "granularity": 10.0,
+        "value": 3.117685794796545
+      },
+      {
+        "timestamp": "2018-10-11T12:36:50+00:00",
+        "granularity": 10.0,
+        "value": 3.997523134665761
+      },
+      {
+        "timestamp": "2018-10-11T12:37:10+00:00",
+        "granularity": 10.0,
+        "value": 3.6696513605075487
+      },
+      {
+        "timestamp": "2018-10-11T12:37:20+00:00",
+        "granularity": 10.0,
+        "value": 3.699944870821424
+      },
+      {
+        "timestamp": "2018-10-11T12:37:30+00:00",
+        "granularity": 10.0,
+        "value": 3.597717607949517
+      },
+      {
+        "timestamp": "2018-10-11T12:37:40+00:00",
+        "granularity": 10.0,
+        "value": 3.4642544370170825
+      },
+      {
+        "timestamp": "2018-10-11T12:37:50+00:00",
+        "granularity": 10.0,
+        "value": 3.742007400881556
+      },
+      {
+        "timestamp": "2018-10-11T12:38:10+00:00",
+        "granularity": 10.0,
+        "value": 3.3431955827059814
+      },
+      {
+        "timestamp": "2018-10-11T12:38:20+00:00",
+        "granularity": 10.0,
+        "value": 3.797667472638305
+      },
+      {
+        "timestamp": "2018-10-11T12:38:30+00:00",
+        "granularity": 10.0,
+        "value": 3.498125490587807
+      },
+      {
+        "timestamp": "2018-10-11T12:38:40+00:00",
+        "granularity": 10.0,
+        "value": 3.606622583434061
+      },
+      {
+        "timestamp": "2018-10-11T12:38:50+00:00",
+        "granularity": 10.0,
+        "value": 41.34600570054299
+      },
+      {
+        "timestamp": "2018-10-11T12:39:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:40+00:00",
+        "granularity": 10.0,
+        "value": 4.54374006126981
+      },
+      {
+        "timestamp": "2018-10-11T12:40:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:41:10+00:00",
+        "granularity": 10.0,
+        "value": 1.5184600945767028
+      },
+      {
+        "timestamp": "2018-10-11T12:41:20+00:00",
+        "granularity": 10.0,
+        "value": 4.001097901264107
+      },
+      {
+        "timestamp": "2018-10-11T12:41:40+00:00",
+        "granularity": 10.0,
+        "value": 3.5153894507329184
+      },
+      {
+        "timestamp": "2018-10-11T12:41:50+00:00",
+        "granularity": 10.0,
+        "value": 3.7917601260700367
+      },
+      {
+        "timestamp": "2018-10-11T12:42:10+00:00",
+        "granularity": 10.0,
+        "value": 3.593403246659301
+      },
+      {
+        "timestamp": "2018-10-11T12:42:20+00:00",
+        "granularity": 10.0,
+        "value": 3.6981013947439387
+      },
+      {
+        "timestamp": "2018-10-11T12:42:40+00:00",
+        "granularity": 10.0,
+        "value": 3.769981071246854
+      },
+      {
+        "timestamp": "2018-10-11T12:42:50+00:00",
+        "granularity": 10.0,
+        "value": 3.4640134039503803
+      },
+      {
+        "timestamp": "2018-10-11T12:43:10+00:00",
+        "granularity": 10.0,
+        "value": 3.3168875954032293
+      },
+      {
+        "timestamp": "2018-10-11T12:43:20+00:00",
+        "granularity": 10.0,
+        "value": 3.8831011321828535
+      },
+      {
+        "timestamp": "2018-10-11T12:43:40+00:00",
+        "granularity": 10.0,
+        "value": 18.27661404156743
+      },
+      {
+        "timestamp": "2018-10-11T12:43:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:40+00:00",
+        "granularity": 10.0,
+        "value": 3.658775849358987
+      },
+      {
+        "timestamp": "2018-10-11T12:45:50+00:00",
+        "granularity": 10.0,
+        "value": 1.7459111488357244
+      },
+      {
+        "timestamp": "2018-10-11T12:46:10+00:00",
+        "granularity": 10.0,
+        "value": 2.78837561657011
+      },
+      {
+        "timestamp": "2018-10-11T12:46:20+00:00",
+        "granularity": 10.0,
+        "value": 3.202244132688188
+      },
+      {
+        "timestamp": "2018-10-11T12:46:40+00:00",
+        "granularity": 10.0,
+        "value": 3.126693962975823
+      },
+      {
+        "timestamp": "2018-10-11T12:46:50+00:00",
+        "granularity": 10.0,
+        "value": 3.6969090143730825
+      },
+      {
+        "timestamp": "2018-10-11T12:47:10+00:00",
+        "granularity": 10.0,
+        "value": 3.7579557717170777
+      },
+      {
+        "timestamp": "2018-10-11T12:47:20+00:00",
+        "granularity": 10.0,
+        "value": 3.6952611970409146
+      },
+      {
+        "timestamp": "2018-10-11T12:47:30+00:00",
+        "granularity": 10.0,
+        "value": 3.801662466996817
+      },
+      {
+        "timestamp": "2018-10-11T12:47:40+00:00",
+        "granularity": 10.0,
+        "value": 3.7990878390098533
+      },
+      {
+        "timestamp": "2018-10-11T12:47:50+00:00",
+        "granularity": 10.0,
+        "value": 3.3006063213812378
+      },
+      {
+        "timestamp": "2018-10-11T12:48:00+00:00",
+        "granularity": 10.0,
+        "value": 3.901406066746455
+      },
+      {
+        "timestamp": "2018-10-11T12:48:10+00:00",
+        "granularity": 10.0,
+        "value": 3.4007712949296907
+      },
+      {
+        "timestamp": "2018-10-11T12:48:20+00:00",
+        "granularity": 10.0,
+        "value": 3.7579675092062783
+      },
+      {
+        "timestamp": "2018-10-11T12:48:30+00:00",
+        "granularity": 10.0,
+        "value": 42.82660437146504
+      },
+      {
+        "timestamp": "2018-10-11T12:48:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      }
+    ],
+    "memory.usage": [
+      {
+        "timestamp": "2018-10-10T06:03:10+00:00",
+        "granularity": 10.0,
+        "value": 418.0
+      }
+    ],
+    "network.incoming.bytes.rate": [
+      {
+        "timestamp": "2018-10-11T10:06:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:06:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:06:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:06:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:20:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:20:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:37:10+00:00",
+        "granularity": 10.0,
+        "value": 0.1632650194131466
+      },
+      {
+        "timestamp": "2018-10-11T10:53:40+00:00",
+        "granularity": 10.0,
+        "value": 0.13208182019683004
+      },
+      {
+        "timestamp": "2018-10-11T11:10:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T11:27:00+00:00",
+        "granularity": 10.0,
+        "value": 0.13201705620761084
+      },
+      {
+        "timestamp": "2018-10-11T11:43:50+00:00",
+        "granularity": 10.0,
+        "value": 0.21588539745264765
+      },
+      {
+        "timestamp": "2018-10-11T12:00:20+00:00",
+        "granularity": 10.0,
+        "value": 0.1320519395932444
+      },
+      {
+        "timestamp": "2018-10-11T12:17:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:33:40+00:00",
+        "granularity": 10.0,
+        "value": 0.563912143615849
+      },
+      {
+        "timestamp": "2018-10-11T12:36:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:36:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:36:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:36:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:41:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:41:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:41:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:41:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:42:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:42:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:42:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:42:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:46:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:46:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:46:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:46:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      }
+    ]
+  },
+  "vm-1": {
+    "cpu_util": [
+      {
+        "timestamp": "2018-10-11T10:06:20+00:00",
+        "granularity": 10.0,
+        "value": 4.445075073223838
+      },
+      {
+        "timestamp": "2018-10-11T10:06:30+00:00",
+        "granularity": 10.0,
+        "value": 4.845170066983467
+      },
+      {
+        "timestamp": "2018-10-11T10:06:40+00:00",
+        "granularity": 10.0,
+        "value": 4.6858267797393225
+      },
+      {
+        "timestamp": "2018-10-11T10:06:50+00:00",
+        "granularity": 10.0,
+        "value": 4.817677987607728
+      },
+      {
+        "timestamp": "2018-10-11T10:07:00+00:00",
+        "granularity": 10.0,
+        "value": 4.701546808900128
+      },
+      {
+        "timestamp": "2018-10-11T10:07:10+00:00",
+        "granularity": 10.0,
+        "value": 4.803440704576688
+      },
+      {
+        "timestamp": "2018-10-11T10:07:20+00:00",
+        "granularity": 10.0,
+        "value": 4.292416159130049
+      },
+      {
+        "timestamp": "2018-10-11T10:07:30+00:00",
+        "granularity": 10.0,
+        "value": 41.654025270776195
+      },
+      {
+        "timestamp": "2018-10-11T10:07:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:50+00:00",
+        "granularity": 10.0,
+        "value": 20.983723143030947
+      },
+      {
+        "timestamp": "2018-10-11T10:09:00+00:00",
+        "granularity": 10.0,
+        "value": 100.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:10+00:00",
+        "granularity": 10.0,
+        "value": 83.14213980220586
+      },
+      {
+        "timestamp": "2018-10-11T10:09:20+00:00",
+        "granularity": 10.0,
+        "value": 78.45846093647062
+      },
+      {
+        "timestamp": "2018-10-11T10:09:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:50+00:00",
+        "granularity": 10.0,
+        "value": 12.760928835078474
+      },
+      {
+        "timestamp": "2018-10-11T10:10:00+00:00",
+        "granularity": 10.0,
+        "value": 89.82352266943559
+      },
+      {
+        "timestamp": "2018-10-11T10:10:10+00:00",
+        "granularity": 10.0,
+        "value": 80.55948758717426
+      },
+      {
+        "timestamp": "2018-10-11T10:10:20+00:00",
+        "granularity": 10.0,
+        "value": 83.19718857421152
+      },
+      {
+        "timestamp": "2018-10-11T10:10:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:40+00:00",
+        "granularity": 10.0,
+        "value": 2.399161329972204
+      },
+      {
+        "timestamp": "2018-10-11T10:10:50+00:00",
+        "granularity": 10.0,
+        "value": 22.067865694341865
+      },
+      {
+        "timestamp": "2018-10-11T10:11:00+00:00",
+        "granularity": 10.0,
+        "value": 100.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:10+00:00",
+        "granularity": 10.0,
+        "value": 81.30536378220788
+      },
+      {
+        "timestamp": "2018-10-11T10:11:20+00:00",
+        "granularity": 10.0,
+        "value": 36.10806602027432
+      },
+      {
+        "timestamp": "2018-10-11T10:11:30+00:00",
+        "granularity": 10.0,
+        "value": 4.741008985654943
+      },
+      {
+        "timestamp": "2018-10-11T10:11:40+00:00",
+        "granularity": 10.0,
+        "value": 4.747884429904076
+      },
+      {
+        "timestamp": "2018-10-11T10:11:50+00:00",
+        "granularity": 10.0,
+        "value": 4.646251450792016
+      },
+      {
+        "timestamp": "2018-10-11T10:12:00+00:00",
+        "granularity": 10.0,
+        "value": 40.747446326502576
+      },
+      {
+        "timestamp": "2018-10-11T10:12:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:20+00:00",
+        "granularity": 10.0,
+        "value": 12.188846569449131
+      },
+      {
+        "timestamp": "2018-10-11T10:13:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:50+00:00",
+        "granularity": 10.0,
+        "value": 4.102605533215641
+      },
+      {
+        "timestamp": "2018-10-11T10:14:00+00:00",
+        "granularity": 10.0,
+        "value": 4.702904984408868
+      },
+      {
+        "timestamp": "2018-10-11T10:14:10+00:00",
+        "granularity": 10.0,
+        "value": 4.477657414236556
+      },
+      {
+        "timestamp": "2018-10-11T10:14:20+00:00",
+        "granularity": 10.0,
+        "value": 4.930435155070917
+      },
+      {
+        "timestamp": "2018-10-11T10:14:30+00:00",
+        "granularity": 10.0,
+        "value": 4.299418718589246
+      },
+      {
+        "timestamp": "2018-10-11T10:14:40+00:00",
+        "granularity": 10.0,
+        "value": 4.613685980421247
+      },
+      {
+        "timestamp": "2018-10-11T10:14:50+00:00",
+        "granularity": 10.0,
+        "value": 4.375433441375286
+      },
+      {
+        "timestamp": "2018-10-11T10:15:00+00:00",
+        "granularity": 10.0,
+        "value": 4.602350420359677
+      },
+      {
+        "timestamp": "2018-10-11T10:15:10+00:00",
+        "granularity": 10.0,
+        "value": 4.759697622121704
+      },
+      {
+        "timestamp": "2018-10-11T10:15:20+00:00",
+        "granularity": 10.0,
+        "value": 4.621188569700127
+      },
+      {
+        "timestamp": "2018-10-11T10:15:30+00:00",
+        "granularity": 10.0,
+        "value": 41.4632065120069
+      },
+      {
+        "timestamp": "2018-10-11T10:15:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:00+00:00",
+        "granularity": 10.0,
+        "value": 9.463602030164123
+      },
+      {
+        "timestamp": "2018-10-11T10:17:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:20+00:00",
+        "granularity": 10.0,
+        "value": 4.7721607505840655
+      },
+      {
+        "timestamp": "2018-10-11T10:17:30+00:00",
+        "granularity": 10.0,
+        "value": 5.086382228858676
+      },
+      {
+        "timestamp": "2018-10-11T10:17:40+00:00",
+        "granularity": 10.0,
+        "value": 4.8038024154891055
+      },
+      {
+        "timestamp": "2018-10-11T10:17:50+00:00",
+        "granularity": 10.0,
+        "value": 4.790555706857273
+      },
+      {
+        "timestamp": "2018-10-11T10:18:00+00:00",
+        "granularity": 10.0,
+        "value": 4.897635421618443
+      },
+      {
+        "timestamp": "2018-10-11T10:18:10+00:00",
+        "granularity": 10.0,
+        "value": 4.731210470736517
+      },
+      {
+        "timestamp": "2018-10-11T10:18:20+00:00",
+        "granularity": 10.0,
+        "value": 4.8943863060323665
+      },
+      {
+        "timestamp": "2018-10-11T10:18:30+00:00",
+        "granularity": 10.0,
+        "value": 4.896605672947512
+      },
+      {
+        "timestamp": "2018-10-11T10:18:40+00:00",
+        "granularity": 10.0,
+        "value": 4.63975585773395
+      },
+      {
+        "timestamp": "2018-10-11T10:18:50+00:00",
+        "granularity": 10.0,
+        "value": 52.48019947883597
+      },
+      {
+        "timestamp": "2018-10-11T10:19:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:20:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:20:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:37:10+00:00",
+        "granularity": 10.0,
+        "value": 4.675954222087608
+      },
+      {
+        "timestamp": "2018-10-11T10:53:40+00:00",
+        "granularity": 10.0,
+        "value": 4.401721082349013
+      },
+      {
+        "timestamp": "2018-10-11T11:10:20+00:00",
+        "granularity": 10.0,
+        "value": 4.542034178807195
+      },
+      {
+        "timestamp": "2018-10-11T11:27:00+00:00",
+        "granularity": 10.0,
+        "value": 4.5835832884749586
+      },
+      {
+        "timestamp": "2018-10-11T11:43:50+00:00",
+        "granularity": 10.0,
+        "value": 4.521618508747627
+      },
+      {
+        "timestamp": "2018-10-11T12:00:20+00:00",
+        "granularity": 10.0,
+        "value": 4.520768642232826
+      },
+      {
+        "timestamp": "2018-10-11T12:17:00+00:00",
+        "granularity": 10.0,
+        "value": 4.724654142539997
+      },
+      {
+        "timestamp": "2018-10-11T12:33:40+00:00",
+        "granularity": 10.0,
+        "value": 4.78926861642178
+      },
+      {
+        "timestamp": "2018-10-11T12:36:10+00:00",
+        "granularity": 10.0,
+        "value": 4.691071342985223
+      },
+      {
+        "timestamp": "2018-10-11T12:36:20+00:00",
+        "granularity": 10.0,
+        "value": 4.602340290037484
+      },
+      {
+        "timestamp": "2018-10-11T12:36:40+00:00",
+        "granularity": 10.0,
+        "value": 24.927032937062503
+      },
+      {
+        "timestamp": "2018-10-11T12:36:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:10+00:00",
+        "granularity": 10.0,
+        "value": 5.342479076017153
+      },
+      {
+        "timestamp": "2018-10-11T12:38:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:30+00:00",
+        "granularity": 10.0,
+        "value": 3.983976253169447
+      },
+      {
+        "timestamp": "2018-10-11T12:38:40+00:00",
+        "granularity": 10.0,
+        "value": 4.84317889775431
+      },
+      {
+        "timestamp": "2018-10-11T12:38:50+00:00",
+        "granularity": 10.0,
+        "value": 5.406015273194483
+      },
+      {
+        "timestamp": "2018-10-11T12:39:10+00:00",
+        "granularity": 10.0,
+        "value": 5.576078996228549
+      },
+      {
+        "timestamp": "2018-10-11T12:39:20+00:00",
+        "granularity": 10.0,
+        "value": 4.704687279937001
+      },
+      {
+        "timestamp": "2018-10-11T12:39:30+00:00",
+        "granularity": 10.0,
+        "value": 4.600177490181496
+      },
+      {
+        "timestamp": "2018-10-11T12:39:40+00:00",
+        "granularity": 10.0,
+        "value": 5.326167166873829
+      },
+      {
+        "timestamp": "2018-10-11T12:39:50+00:00",
+        "granularity": 10.0,
+        "value": 46.49545739381262
+      },
+      {
+        "timestamp": "2018-10-11T12:40:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:50+00:00",
+        "granularity": 10.0,
+        "value": 14.721990227116724
+      },
+      {
+        "timestamp": "2018-10-11T12:41:10+00:00",
+        "granularity": 10.0,
+        "value": 3.7377479251118837
+      },
+      {
+        "timestamp": "2018-10-11T12:41:20+00:00",
+        "granularity": 10.0,
+        "value": 3.4009332160744905
+      },
+      {
+        "timestamp": "2018-10-11T12:41:40+00:00",
+        "granularity": 10.0,
+        "value": 7.370711800018053
+      },
+      {
+        "timestamp": "2018-10-11T12:41:50+00:00",
+        "granularity": 10.0,
+        "value": 53.28420808740525
+      },
+      {
+        "timestamp": "2018-10-11T12:42:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:42:20+00:00",
+        "granularity": 10.0,
+        "value": 17.491020110275382
+      },
+      {
+        "timestamp": "2018-10-11T12:42:40+00:00",
+        "granularity": 10.0,
+        "value": 4.047789357667872
+      },
+      {
+        "timestamp": "2018-10-11T12:42:50+00:00",
+        "granularity": 10.0,
+        "value": 22.66454484298963
+      },
+      {
+        "timestamp": "2018-10-11T12:43:10+00:00",
+        "granularity": 10.0,
+        "value": 31.469777306460806
+      },
+      {
+        "timestamp": "2018-10-11T12:43:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:40+00:00",
+        "granularity": 10.0,
+        "value": 12.966077189721771
+      },
+      {
+        "timestamp": "2018-10-11T12:43:50+00:00",
+        "granularity": 10.0,
+        "value": 63.26851126194492
+      },
+      {
+        "timestamp": "2018-10-11T12:44:10+00:00",
+        "granularity": 10.0,
+        "value": 48.94315407023845
+      },
+      {
+        "timestamp": "2018-10-11T12:44:20+00:00",
+        "granularity": 10.0,
+        "value": 1.4975346087735761
+      },
+      {
+        "timestamp": "2018-10-11T12:44:40+00:00",
+        "granularity": 10.0,
+        "value": 30.90488525622383
+      },
+      {
+        "timestamp": "2018-10-11T12:44:50+00:00",
+        "granularity": 10.0,
+        "value": 92.1703259587065
+      },
+      {
+        "timestamp": "2018-10-11T12:45:10+00:00",
+        "granularity": 10.0,
+        "value": 77.2962827058009
+      },
+      {
+        "timestamp": "2018-10-11T12:45:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:40+00:00",
+        "granularity": 10.0,
+        "value": 19.172382716495562
+      },
+      {
+        "timestamp": "2018-10-11T12:45:50+00:00",
+        "granularity": 10.0,
+        "value": 90.69038467563347
+      },
+      {
+        "timestamp": "2018-10-11T12:46:10+00:00",
+        "granularity": 10.0,
+        "value": 64.83427640872057
+      },
+      {
+        "timestamp": "2018-10-11T12:46:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:46:40+00:00",
+        "granularity": 10.0,
+        "value": 2.681926573448007
+      },
+      {
+        "timestamp": "2018-10-11T12:46:50+00:00",
+        "granularity": 10.0,
+        "value": 1.0990810583271327
+      },
+      {
+        "timestamp": "2018-10-11T12:47:10+00:00",
+        "granularity": 10.0,
+        "value": 4.8864442057479724
+      },
+      {
+        "timestamp": "2018-10-11T12:47:20+00:00",
+        "granularity": 10.0,
+        "value": 4.893724287973103
+      },
+      {
+        "timestamp": "2018-10-11T12:47:30+00:00",
+        "granularity": 10.0,
+        "value": 5.102231205706255
+      },
+      {
+        "timestamp": "2018-10-11T12:47:40+00:00",
+        "granularity": 10.0,
+        "value": 4.698871800880608
+      },
+      {
+        "timestamp": "2018-10-11T12:47:50+00:00",
+        "granularity": 10.0,
+        "value": 4.800881922009073
+      },
+      {
+        "timestamp": "2018-10-11T12:48:00+00:00",
+        "granularity": 10.0,
+        "value": 40.614637515360535
+      },
+      {
+        "timestamp": "2018-10-11T12:48:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      }
+    ],
+    "memory.usage": [
+      {
+        "timestamp": "2018-10-10T06:03:10+00:00",
+        "granularity": 10.0,
+        "value": 428.0
+      }
+    ],
+    "network.incoming.bytes.rate": [
+      {
+        "timestamp": "2018-10-11T10:06:20+00:00",
+        "granularity": 10.0,
+        "value": 2098.1640186992463
+      },
+      {
+        "timestamp": "2018-10-11T10:06:30+00:00",
+        "granularity": 10.0,
+        "value": 2102.2541845972178
+      },
+      {
+        "timestamp": "2018-10-11T10:06:40+00:00",
+        "granularity": 10.0,
+        "value": 2066.991256417594
+      },
+      {
+        "timestamp": "2018-10-11T10:06:50+00:00",
+        "granularity": 10.0,
+        "value": 1997.699223731374
+      },
+      {
+        "timestamp": "2018-10-11T10:07:00+00:00",
+        "granularity": 10.0,
+        "value": 2220.486064399497
+      },
+      {
+        "timestamp": "2018-10-11T10:07:10+00:00",
+        "granularity": 10.0,
+        "value": 2108.894727252917
+      },
+      {
+        "timestamp": "2018-10-11T10:07:20+00:00",
+        "granularity": 10.0,
+        "value": 2188.765495517015
+      },
+      {
+        "timestamp": "2018-10-11T10:07:30+00:00",
+        "granularity": 10.0,
+        "value": 2150.8529598248892
+      },
+      {
+        "timestamp": "2018-10-11T10:07:40+00:00",
+        "granularity": 10.0,
+        "value": 2159.3045405311186
+      },
+      {
+        "timestamp": "2018-10-11T10:07:50+00:00",
+        "granularity": 10.0,
+        "value": 2035.734962524484
+      },
+      {
+        "timestamp": "2018-10-11T10:08:00+00:00",
+        "granularity": 10.0,
+        "value": 2012.2529760907414
+      },
+      {
+        "timestamp": "2018-10-11T10:08:10+00:00",
+        "granularity": 10.0,
+        "value": 2286.3440807078864
+      },
+      {
+        "timestamp": "2018-10-11T10:08:20+00:00",
+        "granularity": 10.0,
+        "value": 2162.221233480864
+      },
+      {
+        "timestamp": "2018-10-11T10:08:30+00:00",
+        "granularity": 10.0,
+        "value": 2117.044820614649
+      },
+      {
+        "timestamp": "2018-10-11T10:08:40+00:00",
+        "granularity": 10.0,
+        "value": 1965.0152505176495
+      },
+      {
+        "timestamp": "2018-10-11T10:08:50+00:00",
+        "granularity": 10.0,
+        "value": 232622.0323353077
+      },
+      {
+        "timestamp": "2018-10-11T10:09:00+00:00",
+        "granularity": 10.0,
+        "value": 1295546.4040379573
+      },
+      {
+        "timestamp": "2018-10-11T10:09:10+00:00",
+        "granularity": 10.0,
+        "value": 1343962.6369779198
+      },
+      {
+        "timestamp": "2018-10-11T10:09:20+00:00",
+        "granularity": 10.0,
+        "value": 1004462.9945944737
+      },
+      {
+        "timestamp": "2018-10-11T10:09:30+00:00",
+        "granularity": 10.0,
+        "value": 2068.216128585437
+      },
+      {
+        "timestamp": "2018-10-11T10:09:40+00:00",
+        "granularity": 10.0,
+        "value": 2071.494637185785
+      },
+      {
+        "timestamp": "2018-10-11T10:09:50+00:00",
+        "granularity": 10.0,
+        "value": 240971.24461289757
+      },
+      {
+        "timestamp": "2018-10-11T10:10:00+00:00",
+        "granularity": 10.0,
+        "value": 1272322.7101497499
+      },
+      {
+        "timestamp": "2018-10-11T10:10:10+00:00",
+        "granularity": 10.0,
+        "value": 1417323.0687727246
+      },
+      {
+        "timestamp": "2018-10-11T10:10:20+00:00",
+        "granularity": 10.0,
+        "value": 1133878.0458327369
+      },
+      {
+        "timestamp": "2018-10-11T10:10:30+00:00",
+        "granularity": 10.0,
+        "value": 1895.3251346571813
+      },
+      {
+        "timestamp": "2018-10-11T10:10:40+00:00",
+        "granularity": 10.0,
+        "value": 1937.9902616805084
+      },
+      {
+        "timestamp": "2018-10-11T10:10:50+00:00",
+        "granularity": 10.0,
+        "value": 257134.51356912887
+      },
+      {
+        "timestamp": "2018-10-11T10:11:00+00:00",
+        "granularity": 10.0,
+        "value": 1281956.9660775107
+      },
+      {
+        "timestamp": "2018-10-11T10:11:10+00:00",
+        "granularity": 10.0,
+        "value": 1438639.1920197874
+      },
+      {
+        "timestamp": "2018-10-11T10:11:20+00:00",
+        "granularity": 10.0,
+        "value": 1067263.484683217
+      },
+      {
+        "timestamp": "2018-10-11T10:11:30+00:00",
+        "granularity": 10.0,
+        "value": 2069.081171907621
+      },
+      {
+        "timestamp": "2018-10-11T10:11:40+00:00",
+        "granularity": 10.0,
+        "value": 2025.0335712414992
+      },
+      {
+        "timestamp": "2018-10-11T10:11:50+00:00",
+        "granularity": 10.0,
+        "value": 2131.973031748627
+      },
+      {
+        "timestamp": "2018-10-11T10:12:00+00:00",
+        "granularity": 10.0,
+        "value": 2201.7936357650588
+      },
+      {
+        "timestamp": "2018-10-11T10:12:10+00:00",
+        "granularity": 10.0,
+        "value": 2144.225582649778
+      },
+      {
+        "timestamp": "2018-10-11T10:12:20+00:00",
+        "granularity": 10.0,
+        "value": 2144.3777251872198
+      },
+      {
+        "timestamp": "2018-10-11T10:12:30+00:00",
+        "granularity": 10.0,
+        "value": 2064.884017449859
+      },
+      {
+        "timestamp": "2018-10-11T10:12:40+00:00",
+        "granularity": 10.0,
+        "value": 2125.0019249917405
+      },
+      {
+        "timestamp": "2018-10-11T10:12:50+00:00",
+        "granularity": 10.0,
+        "value": 2162.4271173712427
+      },
+      {
+        "timestamp": "2018-10-11T10:13:00+00:00",
+        "granularity": 10.0,
+        "value": 2340.3867822383572
+      },
+      {
+        "timestamp": "2018-10-11T10:13:10+00:00",
+        "granularity": 10.0,
+        "value": 1988.4765194663228
+      },
+      {
+        "timestamp": "2018-10-11T10:13:20+00:00",
+        "granularity": 10.0,
+        "value": 1973.2730282775367
+      },
+      {
+        "timestamp": "2018-10-11T10:13:30+00:00",
+        "granularity": 10.0,
+        "value": 2158.8033169688783
+      },
+      {
+        "timestamp": "2018-10-11T10:13:40+00:00",
+        "granularity": 10.0,
+        "value": 1972.8723853795539
+      },
+      {
+        "timestamp": "2018-10-11T10:13:50+00:00",
+        "granularity": 10.0,
+        "value": 2210.615857844862
+      },
+      {
+        "timestamp": "2018-10-11T10:14:00+00:00",
+        "granularity": 10.0,
+        "value": 2033.7434535881193
+      },
+      {
+        "timestamp": "2018-10-11T10:14:10+00:00",
+        "granularity": 10.0,
+        "value": 2135.793468304264
+      },
+      {
+        "timestamp": "2018-10-11T10:14:20+00:00",
+        "granularity": 10.0,
+        "value": 2090.441907260209
+      },
+      {
+        "timestamp": "2018-10-11T10:14:30+00:00",
+        "granularity": 10.0,
+        "value": 2012.43924256523
+      },
+      {
+        "timestamp": "2018-10-11T10:14:40+00:00",
+        "granularity": 10.0,
+        "value": 2149.2853971969353
+      },
+      {
+        "timestamp": "2018-10-11T10:14:50+00:00",
+        "granularity": 10.0,
+        "value": 2030.7615355758412
+      },
+      {
+        "timestamp": "2018-10-11T10:15:00+00:00",
+        "granularity": 10.0,
+        "value": 1808.7952745248463
+      },
+      {
+        "timestamp": "2018-10-11T10:15:10+00:00",
+        "granularity": 10.0,
+        "value": 2112.1310457942527
+      },
+      {
+        "timestamp": "2018-10-11T10:15:20+00:00",
+        "granularity": 10.0,
+        "value": 2024.3814433801876
+      },
+      {
+        "timestamp": "2018-10-11T10:15:30+00:00",
+        "granularity": 10.0,
+        "value": 2115.4240253273947
+      },
+      {
+        "timestamp": "2018-10-11T10:15:40+00:00",
+        "granularity": 10.0,
+        "value": 2137.310390558829
+      },
+      {
+        "timestamp": "2018-10-11T10:15:50+00:00",
+        "granularity": 10.0,
+        "value": 2205.2980488456337
+      },
+      {
+        "timestamp": "2018-10-11T10:16:00+00:00",
+        "granularity": 10.0,
+        "value": 2196.7846461365557
+      },
+      {
+        "timestamp": "2018-10-11T10:16:10+00:00",
+        "granularity": 10.0,
+        "value": 2073.253421089268
+      },
+      {
+        "timestamp": "2018-10-11T10:16:20+00:00",
+        "granularity": 10.0,
+        "value": 2090.505131797516
+      },
+      {
+        "timestamp": "2018-10-11T10:16:30+00:00",
+        "granularity": 10.0,
+        "value": 1945.483289754261
+      },
+      {
+        "timestamp": "2018-10-11T10:16:40+00:00",
+        "granularity": 10.0,
+        "value": 2211.853979662582
+      },
+      {
+        "timestamp": "2018-10-11T10:16:50+00:00",
+        "granularity": 10.0,
+        "value": 2037.3919864192271
+      },
+      {
+        "timestamp": "2018-10-11T10:17:00+00:00",
+        "granularity": 10.0,
+        "value": 2319.0489422623864
+      },
+      {
+        "timestamp": "2018-10-11T10:17:10+00:00",
+        "granularity": 10.0,
+        "value": 2002.7675853358592
+      },
+      {
+        "timestamp": "2018-10-11T10:17:20+00:00",
+        "granularity": 10.0,
+        "value": 2207.0836631816223
+      },
+      {
+        "timestamp": "2018-10-11T10:17:30+00:00",
+        "granularity": 10.0,
+        "value": 2384.7864267002747
+      },
+      {
+        "timestamp": "2018-10-11T10:17:40+00:00",
+        "granularity": 10.0,
+        "value": 2247.9405888914566
+      },
+      {
+        "timestamp": "2018-10-11T10:17:50+00:00",
+        "granularity": 10.0,
+        "value": 2339.646089902105
+      },
+      {
+        "timestamp": "2018-10-11T10:18:00+00:00",
+        "granularity": 10.0,
+        "value": 2142.2698264413593
+      },
+      {
+        "timestamp": "2018-10-11T10:18:10+00:00",
+        "granularity": 10.0,
+        "value": 2180.975555630101
+      },
+      {
+        "timestamp": "2018-10-11T10:18:20+00:00",
+        "granularity": 10.0,
+        "value": 2173.570231160292
+      },
+      {
+        "timestamp": "2018-10-11T10:18:30+00:00",
+        "granularity": 10.0,
+        "value": 2151.044170186424
+      },
+      {
+        "timestamp": "2018-10-11T10:18:40+00:00",
+        "granularity": 10.0,
+        "value": 2169.128981964909
+      },
+      {
+        "timestamp": "2018-10-11T10:18:50+00:00",
+        "granularity": 10.0,
+        "value": 2141.4478935853776
+      },
+      {
+        "timestamp": "2018-10-11T10:19:00+00:00",
+        "granularity": 10.0,
+        "value": 2276.3883132728865
+      },
+      {
+        "timestamp": "2018-10-11T10:19:10+00:00",
+        "granularity": 10.0,
+        "value": 2065.079158383027
+      },
+      {
+        "timestamp": "2018-10-11T10:19:20+00:00",
+        "granularity": 10.0,
+        "value": 2173.050283943545
+      },
+      {
+        "timestamp": "2018-10-11T10:19:30+00:00",
+        "granularity": 10.0,
+        "value": 1938.1737565275923
+      },
+      {
+        "timestamp": "2018-10-11T10:19:40+00:00",
+        "granularity": 10.0,
+        "value": 2081.953037563072
+      },
+      {
+        "timestamp": "2018-10-11T10:19:50+00:00",
+        "granularity": 10.0,
+        "value": 2152.422621611996
+      },
+      {
+        "timestamp": "2018-10-11T10:20:00+00:00",
+        "granularity": 10.0,
+        "value": 2228.2222822228223
+      },
+      {
+        "timestamp": "2018-10-11T10:20:10+00:00",
+        "granularity": 10.0,
+        "value": 2210.8937040181963
+      },
+      {
+        "timestamp": "2018-10-11T10:37:10+00:00",
+        "granularity": 10.0,
+        "value": 2124.924093214435
+      },
+      {
+        "timestamp": "2018-10-11T10:53:40+00:00",
+        "granularity": 10.0,
+        "value": 2106.598966435342
+      },
+      {
+        "timestamp": "2018-10-11T11:10:20+00:00",
+        "granularity": 10.0,
+        "value": 2121.900181828944
+      },
+      {
+        "timestamp": "2018-10-11T11:27:00+00:00",
+        "granularity": 10.0,
+        "value": 2110.366653040473
+      },
+      {
+        "timestamp": "2018-10-11T11:43:50+00:00",
+        "granularity": 10.0,
+        "value": 2075.348303428473
+      },
+      {
+        "timestamp": "2018-10-11T12:00:20+00:00",
+        "granularity": 10.0,
+        "value": 2094.3337580140383
+      },
+      {
+        "timestamp": "2018-10-11T12:17:00+00:00",
+        "granularity": 10.0,
+        "value": 2110.9192744286597
+      },
+      {
+        "timestamp": "2018-10-11T12:33:40+00:00",
+        "granularity": 10.0,
+        "value": 2130.975998201432
+      },
+      {
+        "timestamp": "2018-10-11T12:36:10+00:00",
+        "granularity": 10.0,
+        "value": 2079.9396939581125
+      },
+      {
+        "timestamp": "2018-10-11T12:36:20+00:00",
+        "granularity": 10.0,
+        "value": 2095.2690193978938
+      },
+      {
+        "timestamp": "2018-10-11T12:36:40+00:00",
+        "granularity": 10.0,
+        "value": 2046.8968663380238
+      },
+      {
+        "timestamp": "2018-10-11T12:36:50+00:00",
+        "granularity": 10.0,
+        "value": 1935.2410880408756
+      },
+      {
+        "timestamp": "2018-10-11T12:37:10+00:00",
+        "granularity": 10.0,
+        "value": 2180.041128328143
+      },
+      {
+        "timestamp": "2018-10-11T12:37:20+00:00",
+        "granularity": 10.0,
+        "value": 1654.0094278537388
+      },
+      {
+        "timestamp": "2018-10-11T12:37:30+00:00",
+        "granularity": 10.0,
+        "value": 2337.4127455355247
+      },
+      {
+        "timestamp": "2018-10-11T12:37:40+00:00",
+        "granularity": 10.0,
+        "value": 2110.010345167524
+      },
+      {
+        "timestamp": "2018-10-11T12:37:50+00:00",
+        "granularity": 10.0,
+        "value": 2055.224320363425
+      },
+      {
+        "timestamp": "2018-10-11T12:38:10+00:00",
+        "granularity": 10.0,
+        "value": 2096.673654799804
+      },
+      {
+        "timestamp": "2018-10-11T12:38:20+00:00",
+        "granularity": 10.0,
+        "value": 2205.281903006573
+      },
+      {
+        "timestamp": "2018-10-11T12:38:30+00:00",
+        "granularity": 10.0,
+        "value": 2127.974232661237
+      },
+      {
+        "timestamp": "2018-10-11T12:38:40+00:00",
+        "granularity": 10.0,
+        "value": 7197.499281373088
+      },
+      {
+        "timestamp": "2018-10-11T12:38:50+00:00",
+        "granularity": 10.0,
+        "value": 16048.379790565801
+      },
+      {
+        "timestamp": "2018-10-11T12:39:10+00:00",
+        "granularity": 10.0,
+        "value": 13655.60989965068
+      },
+      {
+        "timestamp": "2018-10-11T12:39:20+00:00",
+        "granularity": 10.0,
+        "value": 2806.1443310649765
+      },
+      {
+        "timestamp": "2018-10-11T12:39:30+00:00",
+        "granularity": 10.0,
+        "value": 2920.572610803762
+      },
+      {
+        "timestamp": "2018-10-11T12:39:40+00:00",
+        "granularity": 10.0,
+        "value": 12130.518033609098
+      },
+      {
+        "timestamp": "2018-10-11T12:39:50+00:00",
+        "granularity": 10.0,
+        "value": 29952.776235824473
+      },
+      {
+        "timestamp": "2018-10-11T12:40:00+00:00",
+        "granularity": 10.0,
+        "value": 33943.97167239705
+      },
+      {
+        "timestamp": "2018-10-11T12:40:10+00:00",
+        "granularity": 10.0,
+        "value": 22648.01794204344
+      },
+      {
+        "timestamp": "2018-10-11T12:40:20+00:00",
+        "granularity": 10.0,
+        "value": 2906.6705899685157
+      },
+      {
+        "timestamp": "2018-10-11T12:40:40+00:00",
+        "granularity": 10.0,
+        "value": 16093.569835265329
+      },
+      {
+        "timestamp": "2018-10-11T12:40:50+00:00",
+        "granularity": 10.0,
+        "value": 74539.47773824283
+      },
+      {
+        "timestamp": "2018-10-11T12:41:10+00:00",
+        "granularity": 10.0,
+        "value": 54709.633483249774
+      },
+      {
+        "timestamp": "2018-10-11T12:41:20+00:00",
+        "granularity": 10.0,
+        "value": 2878.1885895665664
+      },
+      {
+        "timestamp": "2018-10-11T12:41:40+00:00",
+        "granularity": 10.0,
+        "value": 28794.82269012747
+      },
+      {
+        "timestamp": "2018-10-11T12:41:50+00:00",
+        "granularity": 10.0,
+        "value": 136886.33551056014
+      },
+      {
+        "timestamp": "2018-10-11T12:42:10+00:00",
+        "granularity": 10.0,
+        "value": 107579.78539297104
+      },
+      {
+        "timestamp": "2018-10-11T12:42:20+00:00",
+        "granularity": 10.0,
+        "value": 2944.560340096819
+      },
+      {
+        "timestamp": "2018-10-11T12:42:40+00:00",
+        "granularity": 10.0,
+        "value": 52335.242072000256
+      },
+      {
+        "timestamp": "2018-10-11T12:42:50+00:00",
+        "granularity": 10.0,
+        "value": 264389.46542866225
+      },
+      {
+        "timestamp": "2018-10-11T12:43:10+00:00",
+        "granularity": 10.0,
+        "value": 213542.45192329126
+      },
+      {
+        "timestamp": "2018-10-11T12:43:20+00:00",
+        "granularity": 10.0,
+        "value": 2666.6271079809744
+      },
+      {
+        "timestamp": "2018-10-11T12:43:40+00:00",
+        "granularity": 10.0,
+        "value": 130084.75762446366
+      },
+      {
+        "timestamp": "2018-10-11T12:43:50+00:00",
+        "granularity": 10.0,
+        "value": 651376.9849162854
+      },
+      {
+        "timestamp": "2018-10-11T12:44:10+00:00",
+        "granularity": 10.0,
+        "value": 521210.8730278056
+      },
+      {
+        "timestamp": "2018-10-11T12:44:20+00:00",
+        "granularity": 10.0,
+        "value": 2628.74344386354
+      },
+      {
+        "timestamp": "2018-10-11T12:44:40+00:00",
+        "granularity": 10.0,
+        "value": 233006.994646004
+      },
+      {
+        "timestamp": "2018-10-11T12:44:50+00:00",
+        "granularity": 10.0,
+        "value": 1332859.6814926497
+      },
+      {
+        "timestamp": "2018-10-11T12:45:10+00:00",
+        "granularity": 10.0,
+        "value": 1040549.1088822533
+      },
+      {
+        "timestamp": "2018-10-11T12:45:20+00:00",
+        "granularity": 10.0,
+        "value": 3000.075061926089
+      },
+      {
+        "timestamp": "2018-10-11T12:45:40+00:00",
+        "granularity": 10.0,
+        "value": 250888.81326090253
+      },
+      {
+        "timestamp": "2018-10-11T12:45:50+00:00",
+        "granularity": 10.0,
+        "value": 1244667.6350487054
+      },
+      {
+        "timestamp": "2018-10-11T12:46:10+00:00",
+        "granularity": 10.0,
+        "value": 985069.0746267217
+      },
+      {
+        "timestamp": "2018-10-11T12:46:20+00:00",
+        "granularity": 10.0,
+        "value": 2847.186579864394
+      },
+      {
+        "timestamp": "2018-10-11T12:46:40+00:00",
+        "granularity": 10.0,
+        "value": 2874.068285843029
+      },
+      {
+        "timestamp": "2018-10-11T12:46:50+00:00",
+        "granularity": 10.0,
+        "value": 2507.207096205503
+      },
+      {
+        "timestamp": "2018-10-11T12:47:10+00:00",
+        "granularity": 10.0,
+        "value": 2866.551964586083
+      },
+      {
+        "timestamp": "2018-10-11T12:47:20+00:00",
+        "granularity": 10.0,
+        "value": 2824.0661338113096
+      },
+      {
+        "timestamp": "2018-10-11T12:47:30+00:00",
+        "granularity": 10.0,
+        "value": 2574.9973737788073
+      },
+      {
+        "timestamp": "2018-10-11T12:47:40+00:00",
+        "granularity": 10.0,
+        "value": 2996.2533336692495
+      },
+      {
+        "timestamp": "2018-10-11T12:47:50+00:00",
+        "granularity": 10.0,
+        "value": 2864.1129626316074
+      },
+      {
+        "timestamp": "2018-10-11T12:48:00+00:00",
+        "granularity": 10.0,
+        "value": 2926.586016695602
+      },
+      {
+        "timestamp": "2018-10-11T12:48:10+00:00",
+        "granularity": 10.0,
+        "value": 2651.3288503009476
+      },
+      {
+        "timestamp": "2018-10-11T12:48:20+00:00",
+        "granularity": 10.0,
+        "value": 2779.2232635764585
+      },
+      {
+        "timestamp": "2018-10-11T12:48:30+00:00",
+        "granularity": 10.0,
+        "value": 2572.4639291426993
+      },
+      {
+        "timestamp": "2018-10-11T12:48:40+00:00",
+        "granularity": 10.0,
+        "value": 2862.5851167169294
+      },
+      {
+        "timestamp": "2018-10-11T12:48:50+00:00",
+        "granularity": 10.0,
+        "value": 2642.892363810327
+      },
+      {
+        "timestamp": "2018-10-11T12:49:00+00:00",
+        "granularity": 10.0,
+        "value": 3061.773089195091
+      },
+      {
+        "timestamp": "2018-10-11T12:49:10+00:00",
+        "granularity": 10.0,
+        "value": 2990.406586931821
+      },
+      {
+        "timestamp": "2018-10-11T12:49:20+00:00",
+        "granularity": 10.0,
+        "value": 2868.5470319189867
+      }
+    ]
+  },
+  "vm-2": {
+    "cpu_util": [
+      {
+        "timestamp": "2018-10-11T10:06:20+00:00",
+        "granularity": 10.0,
+        "value": 3.626245454472078
+      },
+      {
+        "timestamp": "2018-10-11T10:06:30+00:00",
+        "granularity": 10.0,
+        "value": 43.80841268897551
+      },
+      {
+        "timestamp": "2018-10-11T10:06:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:06:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:20+00:00",
+        "granularity": 10.0,
+        "value": 7.106970516682762
+      },
+      {
+        "timestamp": "2018-10-11T10:08:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:40+00:00",
+        "granularity": 10.0,
+        "value": 2.5185513099130663
+      },
+      {
+        "timestamp": "2018-10-11T10:08:50+00:00",
+        "granularity": 10.0,
+        "value": 24.49823834925288
+      },
+      {
+        "timestamp": "2018-10-11T10:09:00+00:00",
+        "granularity": 10.0,
+        "value": 100.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:10+00:00",
+        "granularity": 10.0,
+        "value": 100.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:20+00:00",
+        "granularity": 10.0,
+        "value": 92.63289026596021
+      },
+      {
+        "timestamp": "2018-10-11T10:09:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:50+00:00",
+        "granularity": 10.0,
+        "value": 2.6756786267100026
+      },
+      {
+        "timestamp": "2018-10-11T10:10:00+00:00",
+        "granularity": 10.0,
+        "value": 100.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:10+00:00",
+        "granularity": 10.0,
+        "value": 100.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:20+00:00",
+        "granularity": 10.0,
+        "value": 85.15598235724748
+      },
+      {
+        "timestamp": "2018-10-11T10:10:30+00:00",
+        "granularity": 10.0,
+        "value": 2.0998034583962943
+      },
+      {
+        "timestamp": "2018-10-11T10:10:40+00:00",
+        "granularity": 10.0,
+        "value": 3.070926502364421
+      },
+      {
+        "timestamp": "2018-10-11T10:10:50+00:00",
+        "granularity": 10.0,
+        "value": 42.88068689421879
+      },
+      {
+        "timestamp": "2018-10-11T10:11:00+00:00",
+        "granularity": 10.0,
+        "value": 81.686341624264
+      },
+      {
+        "timestamp": "2018-10-11T10:11:10+00:00",
+        "granularity": 10.0,
+        "value": 100.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:20+00:00",
+        "granularity": 10.0,
+        "value": 80.70613056656215
+      },
+      {
+        "timestamp": "2018-10-11T10:11:30+00:00",
+        "granularity": 10.0,
+        "value": 1.8551774291693255
+      },
+      {
+        "timestamp": "2018-10-11T10:11:40+00:00",
+        "granularity": 10.0,
+        "value": 4.650988829293788
+      },
+      {
+        "timestamp": "2018-10-11T10:11:50+00:00",
+        "granularity": 10.0,
+        "value": 3.4072510639141447
+      },
+      {
+        "timestamp": "2018-10-11T10:12:00+00:00",
+        "granularity": 10.0,
+        "value": 3.604196726668533
+      },
+      {
+        "timestamp": "2018-10-11T10:12:10+00:00",
+        "granularity": 10.0,
+        "value": 3.5342067970423154
+      },
+      {
+        "timestamp": "2018-10-11T10:12:20+00:00",
+        "granularity": 10.0,
+        "value": 3.891714766279286
+      },
+      {
+        "timestamp": "2018-10-11T10:12:30+00:00",
+        "granularity": 10.0,
+        "value": 3.9972522887766946
+      },
+      {
+        "timestamp": "2018-10-11T10:12:40+00:00",
+        "granularity": 10.0,
+        "value": 3.3064325133034314
+      },
+      {
+        "timestamp": "2018-10-11T10:12:50+00:00",
+        "granularity": 10.0,
+        "value": 4.035747375808371
+      },
+      {
+        "timestamp": "2018-10-11T10:13:00+00:00",
+        "granularity": 10.0,
+        "value": 3.6018592797602125
+      },
+      {
+        "timestamp": "2018-10-11T10:13:10+00:00",
+        "granularity": 10.0,
+        "value": 3.4998373048604225
+      },
+      {
+        "timestamp": "2018-10-11T10:13:20+00:00",
+        "granularity": 10.0,
+        "value": 3.603658985750178
+      },
+      {
+        "timestamp": "2018-10-11T10:13:30+00:00",
+        "granularity": 10.0,
+        "value": 3.702436203021588
+      },
+      {
+        "timestamp": "2018-10-11T10:13:40+00:00",
+        "granularity": 10.0,
+        "value": 3.5249794812849786
+      },
+      {
+        "timestamp": "2018-10-11T10:13:50+00:00",
+        "granularity": 10.0,
+        "value": 45.023465851699854
+      },
+      {
+        "timestamp": "2018-10-11T10:14:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:40+00:00",
+        "granularity": 10.0,
+        "value": 6.852773398295087
+      },
+      {
+        "timestamp": "2018-10-11T10:15:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:00+00:00",
+        "granularity": 10.0,
+        "value": 1.6991529722433365
+      },
+      {
+        "timestamp": "2018-10-11T10:16:10+00:00",
+        "granularity": 10.0,
+        "value": 3.6265069352522565
+      },
+      {
+        "timestamp": "2018-10-11T10:16:20+00:00",
+        "granularity": 10.0,
+        "value": 3.2349333536799483
+      },
+      {
+        "timestamp": "2018-10-11T10:16:30+00:00",
+        "granularity": 10.0,
+        "value": 4.009142489652814
+      },
+      {
+        "timestamp": "2018-10-11T10:16:40+00:00",
+        "granularity": 10.0,
+        "value": 3.515940747960139
+      },
+      {
+        "timestamp": "2018-10-11T10:16:50+00:00",
+        "granularity": 10.0,
+        "value": 3.7957561146180314
+      },
+      {
+        "timestamp": "2018-10-11T10:17:00+00:00",
+        "granularity": 10.0,
+        "value": 3.120975137607317
+      },
+      {
+        "timestamp": "2018-10-11T10:17:10+00:00",
+        "granularity": 10.0,
+        "value": 3.955808172488708
+      },
+      {
+        "timestamp": "2018-10-11T10:17:20+00:00",
+        "granularity": 10.0,
+        "value": 3.8410074333969315
+      },
+      {
+        "timestamp": "2018-10-11T10:17:30+00:00",
+        "granularity": 10.0,
+        "value": 3.8895864103036937
+      },
+      {
+        "timestamp": "2018-10-11T10:17:40+00:00",
+        "granularity": 10.0,
+        "value": 3.9459805555803373
+      },
+      {
+        "timestamp": "2018-10-11T10:17:50+00:00",
+        "granularity": 10.0,
+        "value": 3.95220845815725
+      },
+      {
+        "timestamp": "2018-10-11T10:18:00+00:00",
+        "granularity": 10.0,
+        "value": 3.6982145020384163
+      },
+      {
+        "timestamp": "2018-10-11T10:18:10+00:00",
+        "granularity": 10.0,
+        "value": 3.5269023509126765
+      },
+      {
+        "timestamp": "2018-10-11T10:18:20+00:00",
+        "granularity": 10.0,
+        "value": 50.61511692092008
+      },
+      {
+        "timestamp": "2018-10-11T10:18:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:20:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:20:10+00:00",
+        "granularity": 10.0,
+        "value": 6.024980758248071
+      },
+      {
+        "timestamp": "2018-10-11T10:37:10+00:00",
+        "granularity": 10.0,
+        "value": 3.9024357144099264
+      },
+      {
+        "timestamp": "2018-10-11T10:53:40+00:00",
+        "granularity": 10.0,
+        "value": 3.394098183979962
+      },
+      {
+        "timestamp": "2018-10-11T11:10:20+00:00",
+        "granularity": 10.0,
+        "value": 3.660027541707251
+      },
+      {
+        "timestamp": "2018-10-11T11:27:00+00:00",
+        "granularity": 10.0,
+        "value": 3.9064971251981637
+      },
+      {
+        "timestamp": "2018-10-11T11:43:50+00:00",
+        "granularity": 10.0,
+        "value": 3.369225462641081
+      },
+      {
+        "timestamp": "2018-10-11T12:00:20+00:00",
+        "granularity": 10.0,
+        "value": 3.6914441889442635
+      },
+      {
+        "timestamp": "2018-10-11T12:17:00+00:00",
+        "granularity": 10.0,
+        "value": 3.8315304868905016
+      },
+      {
+        "timestamp": "2018-10-11T12:33:40+00:00",
+        "granularity": 10.0,
+        "value": 3.9643945854096785
+      },
+      {
+        "timestamp": "2018-10-11T12:36:10+00:00",
+        "granularity": 10.0,
+        "value": 3.8485112132806707
+      },
+      {
+        "timestamp": "2018-10-11T12:36:20+00:00",
+        "granularity": 10.0,
+        "value": 3.9019841589448228
+      },
+      {
+        "timestamp": "2018-10-11T12:36:40+00:00",
+        "granularity": 10.0,
+        "value": 3.6411523809843276
+      },
+      {
+        "timestamp": "2018-10-11T12:36:50+00:00",
+        "granularity": 10.0,
+        "value": 3.797646977932473
+      },
+      {
+        "timestamp": "2018-10-11T12:37:10+00:00",
+        "granularity": 10.0,
+        "value": 3.6696513605075487
+      },
+      {
+        "timestamp": "2018-10-11T12:37:20+00:00",
+        "granularity": 10.0,
+        "value": 3.599946360799224
+      },
+      {
+        "timestamp": "2018-10-11T12:37:30+00:00",
+        "granularity": 10.0,
+        "value": 3.6976542081703365
+      },
+      {
+        "timestamp": "2018-10-11T12:37:40+00:00",
+        "granularity": 10.0,
+        "value": 3.6622118334180582
+      },
+      {
+        "timestamp": "2018-10-11T12:37:50+00:00",
+        "granularity": 10.0,
+        "value": 43.2859234480353
+      },
+      {
+        "timestamp": "2018-10-11T12:38:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:30+00:00",
+        "granularity": 10.0,
+        "value": 7.762799514681273
+      },
+      {
+        "timestamp": "2018-10-11T12:39:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:50+00:00",
+        "granularity": 10.0,
+        "value": 3.5996483143596865
+      },
+      {
+        "timestamp": "2018-10-11T12:40:00+00:00",
+        "granularity": 10.0,
+        "value": 6.624928337958141
+      },
+      {
+        "timestamp": "2018-10-11T12:40:10+00:00",
+        "granularity": 10.0,
+        "value": 6.2663538781315316
+      },
+      {
+        "timestamp": "2018-10-11T12:40:20+00:00",
+        "granularity": 10.0,
+        "value": 2.8000047600080915
+      },
+      {
+        "timestamp": "2018-10-11T12:40:40+00:00",
+        "granularity": 10.0,
+        "value": 4.955858591524842
+      },
+      {
+        "timestamp": "2018-10-11T12:40:50+00:00",
+        "granularity": 10.0,
+        "value": 11.332058266925372
+      },
+      {
+        "timestamp": "2018-10-11T12:41:10+00:00",
+        "granularity": 10.0,
+        "value": 21.30981065918527
+      },
+      {
+        "timestamp": "2018-10-11T12:41:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:41:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:41:50+00:00",
+        "granularity": 10.0,
+        "value": 5.587857027892685
+      },
+      {
+        "timestamp": "2018-10-11T12:42:10+00:00",
+        "granularity": 10.0,
+        "value": 15.748023079032667
+      },
+      {
+        "timestamp": "2018-10-11T12:42:20+00:00",
+        "granularity": 10.0,
+        "value": 3.8979987674328
+      },
+      {
+        "timestamp": "2018-10-11T12:42:40+00:00",
+        "granularity": 10.0,
+        "value": 26.59725045124455
+      },
+      {
+        "timestamp": "2018-10-11T12:42:50+00:00",
+        "granularity": 10.0,
+        "value": 1.1876617384972732
+      },
+      {
+        "timestamp": "2018-10-11T12:43:10+00:00",
+        "granularity": 10.0,
+        "value": 45.3050785583913
+      },
+      {
+        "timestamp": "2018-10-11T12:43:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:50+00:00",
+        "granularity": 10.0,
+        "value": 80.2600545708401
+      },
+      {
+        "timestamp": "2018-10-11T12:44:10+00:00",
+        "granularity": 10.0,
+        "value": 38.959574668088926
+      },
+      {
+        "timestamp": "2018-10-11T12:44:20+00:00",
+        "granularity": 10.0,
+        "value": 2.2962197334528165
+      },
+      {
+        "timestamp": "2018-10-11T12:44:40+00:00",
+        "granularity": 10.0,
+        "value": 24.688816714344537
+      },
+      {
+        "timestamp": "2018-10-11T12:44:50+00:00",
+        "granularity": 10.0,
+        "value": 100.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:10+00:00",
+        "granularity": 10.0,
+        "value": 80.21147215964376
+      },
+      {
+        "timestamp": "2018-10-11T12:45:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:40+00:00",
+        "granularity": 10.0,
+        "value": 16.974066614604894
+      },
+      {
+        "timestamp": "2018-10-11T12:45:50+00:00",
+        "granularity": 10.0,
+        "value": 100.0
+      },
+      {
+        "timestamp": "2018-10-11T12:46:10+00:00",
+        "granularity": 10.0,
+        "value": 64.70748772146655
+      },
+      {
+        "timestamp": "2018-10-11T12:46:20+00:00",
+        "granularity": 10.0,
+        "value": 2.2015428412231293
+      },
+      {
+        "timestamp": "2018-10-11T12:46:40+00:00",
+        "granularity": 10.0,
+        "value": 3.048895188758997
+      },
+      {
+        "timestamp": "2018-10-11T12:46:50+00:00",
+        "granularity": 10.0,
+        "value": 3.397159634829319
+      },
+      {
+        "timestamp": "2018-10-11T12:47:10+00:00",
+        "granularity": 10.0,
+        "value": 3.7361601542221736
+      },
+      {
+        "timestamp": "2018-10-11T12:47:20+00:00",
+        "granularity": 10.0,
+        "value": 3.6952611970409146
+      },
+      {
+        "timestamp": "2018-10-11T12:47:30+00:00",
+        "granularity": 10.0,
+        "value": 3.801662466996817
+      },
+      {
+        "timestamp": "2018-10-11T12:47:40+00:00",
+        "granularity": 10.0,
+        "value": 43.78948614437673
+      },
+      {
+        "timestamp": "2018-10-11T12:47:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      }
+    ],
+    "memory.usage": [
+      {
+        "timestamp": "2018-10-10T06:03:10+00:00",
+        "granularity": 10.0,
+        "value": 450.0
+      }
+    ],
+    "network.incoming.bytes.rate": [
+      {
+        "timestamp": "2018-10-11T10:06:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:06:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:06:40+00:00",
+        "granularity": 10.0,
+        "value": 8.973912835387528
+      },
+      {
+        "timestamp": "2018-10-11T10:06:50+00:00",
+        "granularity": 10.0,
+        "value": 4.214978770055144
+      },
+      {
+        "timestamp": "2018-10-11T10:07:00+00:00",
+        "granularity": 10.0,
+        "value": 10.802364637619174
+      },
+      {
+        "timestamp": "2018-10-11T10:07:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:00+00:00",
+        "granularity": 10.0,
+        "value": 10.803505737611856
+      },
+      {
+        "timestamp": "2018-10-11T10:08:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:50+00:00",
+        "granularity": 10.0,
+        "value": 222829988.60850722
+      },
+      {
+        "timestamp": "2018-10-11T10:09:00+00:00",
+        "granularity": 10.0,
+        "value": 1220024401.2763677
+      },
+      {
+        "timestamp": "2018-10-11T10:09:10+00:00",
+        "granularity": 10.0,
+        "value": 1340510872.312565
+      },
+      {
+        "timestamp": "2018-10-11T10:09:20+00:00",
+        "granularity": 10.0,
+        "value": 949173053.1396953
+      },
+      {
+        "timestamp": "2018-10-11T10:09:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:50+00:00",
+        "granularity": 10.0,
+        "value": 235408056.77526337
+      },
+      {
+        "timestamp": "2018-10-11T10:10:00+00:00",
+        "granularity": 10.0,
+        "value": 1211382071.5542026
+      },
+      {
+        "timestamp": "2018-10-11T10:10:10+00:00",
+        "granularity": 10.0,
+        "value": 1377189048.276382
+      },
+      {
+        "timestamp": "2018-10-11T10:10:20+00:00",
+        "granularity": 10.0,
+        "value": 1080844484.9045327
+      },
+      {
+        "timestamp": "2018-10-11T10:10:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:50+00:00",
+        "granularity": 10.0,
+        "value": 247160842.24926436
+      },
+      {
+        "timestamp": "2018-10-11T10:11:00+00:00",
+        "granularity": 10.0,
+        "value": 1230761076.357304
+      },
+      {
+        "timestamp": "2018-10-11T10:11:10+00:00",
+        "granularity": 10.0,
+        "value": 1401647402.4571726
+      },
+      {
+        "timestamp": "2018-10-11T10:11:20+00:00",
+        "granularity": 10.0,
+        "value": 1013191106.9749737
+      },
+      {
+        "timestamp": "2018-10-11T10:11:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:00+00:00",
+        "granularity": 10.0,
+        "value": 21.62744089701013
+      },
+      {
+        "timestamp": "2018-10-11T10:12:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:00+00:00",
+        "granularity": 10.0,
+        "value": 10.807327367955473
+      },
+      {
+        "timestamp": "2018-10-11T10:13:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:00+00:00",
+        "granularity": 10.0,
+        "value": 10.805012445273361
+      },
+      {
+        "timestamp": "2018-10-11T10:14:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:00+00:00",
+        "granularity": 10.0,
+        "value": 10.803555450098628
+      },
+      {
+        "timestamp": "2018-10-11T10:15:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:00+00:00",
+        "granularity": 10.0,
+        "value": 10.795010546125582
+      },
+      {
+        "timestamp": "2018-10-11T10:16:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:00+00:00",
+        "granularity": 10.0,
+        "value": 10.87337352454362
+      },
+      {
+        "timestamp": "2018-10-11T10:17:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:00+00:00",
+        "granularity": 10.0,
+        "value": 10.795312675236413
+      },
+      {
+        "timestamp": "2018-10-11T10:18:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:40+00:00",
+        "granularity": 10.0,
+        "value": 14.673370766732534
+      },
+      {
+        "timestamp": "2018-10-11T10:18:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:00+00:00",
+        "granularity": 10.0,
+        "value": 10.803741335624526
+      },
+      {
+        "timestamp": "2018-10-11T10:19:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:30+00:00",
+        "granularity": 10.0,
+        "value": 13.19437523783611
+      },
+      {
+        "timestamp": "2018-10-11T10:19:40+00:00",
+        "granularity": 10.0,
+        "value": 3.6379608744237406
+      },
+      {
+        "timestamp": "2018-10-11T10:19:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:20:00+00:00",
+        "granularity": 10.0,
+        "value": 10.80010800108001
+      },
+      {
+        "timestamp": "2018-10-11T10:20:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:37:10+00:00",
+        "granularity": 10.0,
+        "value": 1.991036822111544
+      },
+      {
+        "timestamp": "2018-10-11T10:53:40+00:00",
+        "granularity": 10.0,
+        "value": 1.967218625052787
+      },
+      {
+        "timestamp": "2018-10-11T11:10:20+00:00",
+        "granularity": 10.0,
+        "value": 1.836010540536513
+      },
+      {
+        "timestamp": "2018-10-11T11:27:00+00:00",
+        "granularity": 10.0,
+        "value": 2.0102597195249836
+      },
+      {
+        "timestamp": "2018-10-11T11:43:50+00:00",
+        "granularity": 10.0,
+        "value": 1.7690608957925293
+      },
+      {
+        "timestamp": "2018-10-11T12:00:20+00:00",
+        "granularity": 10.0,
+        "value": 1.9687743721174618
+      },
+      {
+        "timestamp": "2018-10-11T12:17:00+00:00",
+        "granularity": 10.0,
+        "value": 1.8362585947891283
+      },
+      {
+        "timestamp": "2018-10-11T12:33:40+00:00",
+        "granularity": 10.0,
+        "value": 36.778270019087564
+      },
+      {
+        "timestamp": "2018-10-11T12:36:10+00:00",
+        "granularity": 10.0,
+        "value": 2.1854347641478804
+      },
+      {
+        "timestamp": "2018-10-11T12:36:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:36:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:36:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:10+00:00",
+        "granularity": 10.0,
+        "value": 5.062943640436493
+      },
+      {
+        "timestamp": "2018-10-11T12:37:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:10+00:00",
+        "granularity": 10.0,
+        "value": 4.985529500624438
+      },
+      {
+        "timestamp": "2018-10-11T12:38:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:30+00:00",
+        "granularity": 10.0,
+        "value": 123.01440084699205
+      },
+      {
+        "timestamp": "2018-10-11T12:38:40+00:00",
+        "granularity": 10.0,
+        "value": 4264717.2215977525
+      },
+      {
+        "timestamp": "2018-10-11T12:38:50+00:00",
+        "granularity": 10.0,
+        "value": 12536908.760828467
+      },
+      {
+        "timestamp": "2018-10-11T12:39:10+00:00",
+        "granularity": 10.0,
+        "value": 10104840.870299859
+      },
+      {
+        "timestamp": "2018-10-11T12:39:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:40+00:00",
+        "granularity": 10.0,
+        "value": 8645659.78689334
+      },
+      {
+        "timestamp": "2018-10-11T12:39:50+00:00",
+        "granularity": 10.0,
+        "value": 25030305.11478798
+      },
+      {
+        "timestamp": "2018-10-11T12:40:00+00:00",
+        "granularity": 10.0,
+        "value": 25401164.956831317
+      },
+      {
+        "timestamp": "2018-10-11T12:40:10+00:00",
+        "granularity": 10.0,
+        "value": 16032122.001717968
+      },
+      {
+        "timestamp": "2018-10-11T12:40:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:40+00:00",
+        "granularity": 10.0,
+        "value": 11648448.123723822
+      },
+      {
+        "timestamp": "2018-10-11T12:40:50+00:00",
+        "granularity": 10.0,
+        "value": 63255348.74744068
+      },
+      {
+        "timestamp": "2018-10-11T12:41:10+00:00",
+        "granularity": 10.0,
+        "value": 49909191.368291944
+      },
+      {
+        "timestamp": "2018-10-11T12:41:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:41:40+00:00",
+        "granularity": 10.0,
+        "value": 24121057.168038722
+      },
+      {
+        "timestamp": "2018-10-11T12:41:50+00:00",
+        "granularity": 10.0,
+        "value": 125143602.98780382
+      },
+      {
+        "timestamp": "2018-10-11T12:42:10+00:00",
+        "granularity": 10.0,
+        "value": 100786644.60738961
+      },
+      {
+        "timestamp": "2018-10-11T12:42:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:42:40+00:00",
+        "granularity": 10.0,
+        "value": 48187742.08286124
+      },
+      {
+        "timestamp": "2018-10-11T12:42:50+00:00",
+        "granularity": 10.0,
+        "value": 250262852.9791246
+      },
+      {
+        "timestamp": "2018-10-11T12:43:10+00:00",
+        "granularity": 10.0,
+        "value": 201374362.35060507
+      },
+      {
+        "timestamp": "2018-10-11T12:43:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:40+00:00",
+        "granularity": 10.0,
+        "value": 123676521.49597065
+      },
+      {
+        "timestamp": "2018-10-11T12:43:50+00:00",
+        "granularity": 10.0,
+        "value": 629424267.0790008
+      },
+      {
+        "timestamp": "2018-10-11T12:44:10+00:00",
+        "granularity": 10.0,
+        "value": 496962587.2576585
+      },
+      {
+        "timestamp": "2018-10-11T12:44:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:40+00:00",
+        "granularity": 10.0,
+        "value": 222620853.6341898
+      },
+      {
+        "timestamp": "2018-10-11T12:44:50+00:00",
+        "granularity": 10.0,
+        "value": 1275602117.2457395
+      },
+      {
+        "timestamp": "2018-10-11T12:45:10+00:00",
+        "granularity": 10.0,
+        "value": 1006146962.1829762
+      },
+      {
+        "timestamp": "2018-10-11T12:45:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:40+00:00",
+        "granularity": 10.0,
+        "value": 237816238.31312156
+      },
+      {
+        "timestamp": "2018-10-11T12:45:50+00:00",
+        "granularity": 10.0,
+        "value": 1184966233.325888
+      },
+      {
+        "timestamp": "2018-10-11T12:46:10+00:00",
+        "granularity": 10.0,
+        "value": 942457338.5390332
+      },
+      {
+        "timestamp": "2018-10-11T12:46:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:46:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:46:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:10+00:00",
+        "granularity": 10.0,
+        "value": 6.207169495949699
+      },
+      {
+        "timestamp": "2018-10-11T12:47:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:00+00:00",
+        "granularity": 10.0,
+        "value": 10.801424707918976
+      },
+      {
+        "timestamp": "2018-10-11T12:48:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:00+00:00",
+        "granularity": 10.0,
+        "value": 21.42500297847588
+      },
+      {
+        "timestamp": "2018-10-11T12:49:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      }
+    ]
+  },
+  "vm-3": {
+    "cpu_util": [
+      {
+        "timestamp": "2018-10-11T10:06:20+00:00",
+        "granularity": 10.0,
+        "value": 3.7432211142937586
+      },
+      {
+        "timestamp": "2018-10-11T10:06:30+00:00",
+        "granularity": 10.0,
+        "value": 3.936700679424067
+      },
+      {
+        "timestamp": "2018-10-11T10:06:40+00:00",
+        "granularity": 10.0,
+        "value": 42.27213945977602
+      },
+      {
+        "timestamp": "2018-10-11T10:06:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:30+00:00",
+        "granularity": 10.0,
+        "value": 7.998468293321828
+      },
+      {
+        "timestamp": "2018-10-11T10:08:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:50+00:00",
+        "granularity": 10.0,
+        "value": 2.480834263215481
+      },
+      {
+        "timestamp": "2018-10-11T10:09:00+00:00",
+        "granularity": 10.0,
+        "value": 3.998879513960188
+      },
+      {
+        "timestamp": "2018-10-11T10:09:10+00:00",
+        "granularity": 10.0,
+        "value": 3.1053088359860017
+      },
+      {
+        "timestamp": "2018-10-11T10:09:20+00:00",
+        "granularity": 10.0,
+        "value": 3.9927969942224233
+      },
+      {
+        "timestamp": "2018-10-11T10:09:30+00:00",
+        "granularity": 10.0,
+        "value": 4.000938220012593
+      },
+      {
+        "timestamp": "2018-10-11T10:09:40+00:00",
+        "granularity": 10.0,
+        "value": 3.8015226950417516
+      },
+      {
+        "timestamp": "2018-10-11T10:09:50+00:00",
+        "granularity": 10.0,
+        "value": 3.7047857908292343
+      },
+      {
+        "timestamp": "2018-10-11T10:10:00+00:00",
+        "granularity": 10.0,
+        "value": 3.286226439125693
+      },
+      {
+        "timestamp": "2018-10-11T10:10:10+00:00",
+        "granularity": 10.0,
+        "value": 2.918822014028053
+      },
+      {
+        "timestamp": "2018-10-11T10:10:20+00:00",
+        "granularity": 10.0,
+        "value": 3.505209927538032
+      },
+      {
+        "timestamp": "2018-10-11T10:10:30+00:00",
+        "granularity": 10.0,
+        "value": 3.199700508032448
+      },
+      {
+        "timestamp": "2018-10-11T10:10:40+00:00",
+        "granularity": 10.0,
+        "value": 3.358825861961086
+      },
+      {
+        "timestamp": "2018-10-11T10:10:50+00:00",
+        "granularity": 10.0,
+        "value": 3.869720524600232
+      },
+      {
+        "timestamp": "2018-10-11T10:11:00+00:00",
+        "granularity": 10.0,
+        "value": 3.2954147599030708
+      },
+      {
+        "timestamp": "2018-10-11T10:11:10+00:00",
+        "granularity": 10.0,
+        "value": 40.03601343767996
+      },
+      {
+        "timestamp": "2018-10-11T10:11:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:00+00:00",
+        "granularity": 10.0,
+        "value": 2.801446106480165
+      },
+      {
+        "timestamp": "2018-10-11T10:13:10+00:00",
+        "granularity": 10.0,
+        "value": 3.4998373048604225
+      },
+      {
+        "timestamp": "2018-10-11T10:13:20+00:00",
+        "granularity": 10.0,
+        "value": 4.027618866426669
+      },
+      {
+        "timestamp": "2018-10-11T10:13:30+00:00",
+        "granularity": 10.0,
+        "value": 3.9025678896714036
+      },
+      {
+        "timestamp": "2018-10-11T10:13:40+00:00",
+        "granularity": 10.0,
+        "value": 3.9060583441265977
+      },
+      {
+        "timestamp": "2018-10-11T10:13:50+00:00",
+        "granularity": 10.0,
+        "value": 4.102605533215641
+      },
+      {
+        "timestamp": "2018-10-11T10:14:00+00:00",
+        "granularity": 10.0,
+        "value": 3.9024105189775717
+      },
+      {
+        "timestamp": "2018-10-11T10:14:10+00:00",
+        "granularity": 10.0,
+        "value": 3.504253628532956
+      },
+      {
+        "timestamp": "2018-10-11T10:14:20+00:00",
+        "granularity": 10.0,
+        "value": 4.005978563495121
+      },
+      {
+        "timestamp": "2018-10-11T10:14:30+00:00",
+        "granularity": 10.0,
+        "value": 3.9994592731062752
+      },
+      {
+        "timestamp": "2018-10-11T10:14:40+00:00",
+        "granularity": 10.0,
+        "value": 3.940856774943148
+      },
+      {
+        "timestamp": "2018-10-11T10:14:50+00:00",
+        "granularity": 10.0,
+        "value": 42.29585659996109
+      },
+      {
+        "timestamp": "2018-10-11T10:15:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:40+00:00",
+        "granularity": 10.0,
+        "value": 4.131230378853163
+      },
+      {
+        "timestamp": "2018-10-11T10:16:50+00:00",
+        "granularity": 10.0,
+        "value": 2.990595726668752
+      },
+      {
+        "timestamp": "2018-10-11T10:17:00+00:00",
+        "granularity": 10.0,
+        "value": 3.2216517549494887
+      },
+      {
+        "timestamp": "2018-10-11T10:17:10+00:00",
+        "granularity": 10.0,
+        "value": 3.6041807793786003
+      },
+      {
+        "timestamp": "2018-10-11T10:17:20+00:00",
+        "granularity": 10.0,
+        "value": 3.957401598045323
+      },
+      {
+        "timestamp": "2018-10-11T10:17:30+00:00",
+        "granularity": 10.0,
+        "value": 3.9893193951832755
+      },
+      {
+        "timestamp": "2018-10-11T10:17:40+00:00",
+        "granularity": 10.0,
+        "value": 3.774416183598583
+      },
+      {
+        "timestamp": "2018-10-11T10:17:50+00:00",
+        "granularity": 10.0,
+        "value": 3.8324445654858184
+      },
+      {
+        "timestamp": "2018-10-11T10:18:00+00:00",
+        "granularity": 10.0,
+        "value": 3.9980697319334224
+      },
+      {
+        "timestamp": "2018-10-11T10:18:10+00:00",
+        "granularity": 10.0,
+        "value": 4.043034402265751
+      },
+      {
+        "timestamp": "2018-10-11T10:18:20+00:00",
+        "granularity": 10.0,
+        "value": 4.058759375734158
+      },
+      {
+        "timestamp": "2018-10-11T10:18:30+00:00",
+        "granularity": 10.0,
+        "value": 3.997229120773479
+      },
+      {
+        "timestamp": "2018-10-11T10:18:40+00:00",
+        "granularity": 10.0,
+        "value": 3.7961638836005047
+      },
+      {
+        "timestamp": "2018-10-11T10:18:50+00:00",
+        "granularity": 10.0,
+        "value": 50.39082385555679
+      },
+      {
+        "timestamp": "2018-10-11T10:19:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:20:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:20:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:37:10+00:00",
+        "granularity": 10.0,
+        "value": 3.965153431248657
+      },
+      {
+        "timestamp": "2018-10-11T10:53:40+00:00",
+        "granularity": 10.0,
+        "value": 3.3650802454966424
+      },
+      {
+        "timestamp": "2018-10-11T11:10:20+00:00",
+        "granularity": 10.0,
+        "value": 3.6890277599338934
+      },
+      {
+        "timestamp": "2018-10-11T11:27:00+00:00",
+        "granularity": 10.0,
+        "value": 3.9154982706479293
+      },
+      {
+        "timestamp": "2018-10-11T11:43:50+00:00",
+        "granularity": 10.0,
+        "value": 3.3882154607989516
+      },
+      {
+        "timestamp": "2018-10-11T12:00:20+00:00",
+        "granularity": 10.0,
+        "value": 3.633421488955438
+      },
+      {
+        "timestamp": "2018-10-11T12:17:00+00:00",
+        "granularity": 10.0,
+        "value": 3.842532010084392
+      },
+      {
+        "timestamp": "2018-10-11T12:33:40+00:00",
+        "granularity": 10.0,
+        "value": 3.969393821961267
+      },
+      {
+        "timestamp": "2018-10-11T12:36:10+00:00",
+        "granularity": 10.0,
+        "value": 3.688144928132524
+      },
+      {
+        "timestamp": "2018-10-11T12:36:20+00:00",
+        "granularity": 10.0,
+        "value": 3.401729779592923
+      },
+      {
+        "timestamp": "2018-10-11T12:36:40+00:00",
+        "granularity": 10.0,
+        "value": 3.9060505005878463
+      },
+      {
+        "timestamp": "2018-10-11T12:36:50+00:00",
+        "granularity": 10.0,
+        "value": 4.19739929139905
+      },
+      {
+        "timestamp": "2018-10-11T12:37:10+00:00",
+        "granularity": 10.0,
+        "value": 3.6562748424934055
+      },
+      {
+        "timestamp": "2018-10-11T12:37:20+00:00",
+        "granularity": 10.0,
+        "value": 3.599946360799224
+      },
+      {
+        "timestamp": "2018-10-11T12:37:30+00:00",
+        "granularity": 10.0,
+        "value": 3.7975908083911567
+      },
+      {
+        "timestamp": "2018-10-11T12:37:40+00:00",
+        "granularity": 10.0,
+        "value": 3.6622118334180582
+      },
+      {
+        "timestamp": "2018-10-11T12:37:50+00:00",
+        "granularity": 10.0,
+        "value": 3.944278071199478
+      },
+      {
+        "timestamp": "2018-10-11T12:38:10+00:00",
+        "granularity": 10.0,
+        "value": 19.015946902306865
+      },
+      {
+        "timestamp": "2018-10-11T12:38:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:50+00:00",
+        "granularity": 10.0,
+        "value": 8.499169631127039
+      },
+      {
+        "timestamp": "2018-10-11T12:40:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:20+00:00",
+        "granularity": 10.0,
+        "value": 2.1000035700060686
+      },
+      {
+        "timestamp": "2018-10-11T12:40:40+00:00",
+        "granularity": 10.0,
+        "value": 3.755835764643945
+      },
+      {
+        "timestamp": "2018-10-11T12:40:50+00:00",
+        "granularity": 10.0,
+        "value": 3.680497556779181
+      },
+      {
+        "timestamp": "2018-10-11T12:41:10+00:00",
+        "granularity": 10.0,
+        "value": 3.3436461624875893
+      },
+      {
+        "timestamp": "2018-10-11T12:41:20+00:00",
+        "granularity": 10.0,
+        "value": 4.101125348795709
+      },
+      {
+        "timestamp": "2018-10-11T12:41:40+00:00",
+        "granularity": 10.0,
+        "value": 3.806124988384333
+      },
+      {
+        "timestamp": "2018-10-11T12:41:50+00:00",
+        "granularity": 10.0,
+        "value": 3.8915432872824063
+      },
+      {
+        "timestamp": "2018-10-11T12:42:10+00:00",
+        "granularity": 10.0,
+        "value": 3.434806581007787
+      },
+      {
+        "timestamp": "2018-10-11T12:42:20+00:00",
+        "granularity": 10.0,
+        "value": 3.4982040220550767
+      },
+      {
+        "timestamp": "2018-10-11T12:42:40+00:00",
+        "granularity": 10.0,
+        "value": 24.920309145925
+      },
+      {
+        "timestamp": "2018-10-11T12:42:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:40+00:00",
+        "granularity": 10.0,
+        "value": 3.397303424379933
+      },
+      {
+        "timestamp": "2018-10-11T12:44:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:10+00:00",
+        "granularity": 10.0,
+        "value": 2.6022572604055028
+      },
+      {
+        "timestamp": "2018-10-11T12:45:20+00:00",
+        "granularity": 10.0,
+        "value": 3.1029226428372882
+      },
+      {
+        "timestamp": "2018-10-11T12:45:40+00:00",
+        "granularity": 10.0,
+        "value": 3.8328464467899623
+      },
+      {
+        "timestamp": "2018-10-11T12:45:50+00:00",
+        "granularity": 10.0,
+        "value": 2.8128568509020004
+      },
+      {
+        "timestamp": "2018-10-11T12:46:10+00:00",
+        "granularity": 10.0,
+        "value": 3.2318108542863957
+      },
+      {
+        "timestamp": "2018-10-11T12:46:20+00:00",
+        "granularity": 10.0,
+        "value": 3.302314261834694
+      },
+      {
+        "timestamp": "2018-10-11T12:46:40+00:00",
+        "granularity": 10.0,
+        "value": 3.4914778998457034
+      },
+      {
+        "timestamp": "2018-10-11T12:46:50+00:00",
+        "granularity": 10.0,
+        "value": 3.6969090143730825
+      },
+      {
+        "timestamp": "2018-10-11T12:47:10+00:00",
+        "granularity": 10.0,
+        "value": 3.7579557717170777
+      },
+      {
+        "timestamp": "2018-10-11T12:47:20+00:00",
+        "granularity": 10.0,
+        "value": 3.4955173485522164
+      },
+      {
+        "timestamp": "2018-10-11T12:47:30+00:00",
+        "granularity": 10.0,
+        "value": 4.001749965259807
+      },
+      {
+        "timestamp": "2018-10-11T12:47:40+00:00",
+        "granularity": 10.0,
+        "value": 40.99015826300105
+      },
+      {
+        "timestamp": "2018-10-11T12:47:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:00+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      }
+    ],
+    "memory.usage": [
+      {
+        "timestamp": "2018-10-10T06:03:10+00:00",
+        "granularity": 10.0,
+        "value": 449.0
+      }
+    ],
+    "network.incoming.bytes.rate": [
+      {
+        "timestamp": "2018-10-11T10:06:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:06:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:06:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:06:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:00+00:00",
+        "granularity": 10.0,
+        "value": 10.802364637619174
+      },
+      {
+        "timestamp": "2018-10-11T10:07:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:07:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:00+00:00",
+        "granularity": 10.0,
+        "value": 10.803505737611856
+      },
+      {
+        "timestamp": "2018-10-11T10:08:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:08:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:00+00:00",
+        "granularity": 10.0,
+        "value": 10.800742010976153
+      },
+      {
+        "timestamp": "2018-10-11T10:09:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:09:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:00+00:00",
+        "granularity": 10.0,
+        "value": 10.768997134150494
+      },
+      {
+        "timestamp": "2018-10-11T10:10:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:10:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:00+00:00",
+        "granularity": 10.0,
+        "value": 10.783942709305844
+      },
+      {
+        "timestamp": "2018-10-11T10:11:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:11:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:00+00:00",
+        "granularity": 10.0,
+        "value": 17.422105167035937
+      },
+      {
+        "timestamp": "2018-10-11T10:12:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:12:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:00+00:00",
+        "granularity": 10.0,
+        "value": 10.807327367955473
+      },
+      {
+        "timestamp": "2018-10-11T10:13:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:13:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:00+00:00",
+        "granularity": 10.0,
+        "value": 10.805012445273361
+      },
+      {
+        "timestamp": "2018-10-11T10:14:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:14:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:00+00:00",
+        "granularity": 10.0,
+        "value": 10.803555450098628
+      },
+      {
+        "timestamp": "2018-10-11T10:15:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:15:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:00+00:00",
+        "granularity": 10.0,
+        "value": 10.795010546125582
+      },
+      {
+        "timestamp": "2018-10-11T10:16:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:16:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:00+00:00",
+        "granularity": 10.0,
+        "value": 10.87337352454362
+      },
+      {
+        "timestamp": "2018-10-11T10:17:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:17:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:00+00:00",
+        "granularity": 10.0,
+        "value": 10.795312675236413
+      },
+      {
+        "timestamp": "2018-10-11T10:18:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:18:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:00+00:00",
+        "granularity": 10.0,
+        "value": 10.803741335624526
+      },
+      {
+        "timestamp": "2018-10-11T10:19:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:19:40+00:00",
+        "granularity": 10.0,
+        "value": 7.79563044519373
+      },
+      {
+        "timestamp": "2018-10-11T10:19:50+00:00",
+        "granularity": 10.0,
+        "value": 4.962766255363627
+      },
+      {
+        "timestamp": "2018-10-11T10:20:00+00:00",
+        "granularity": 10.0,
+        "value": 10.80010800108001
+      },
+      {
+        "timestamp": "2018-10-11T10:20:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T10:37:10+00:00",
+        "granularity": 10.0,
+        "value": 1.991036822111544
+      },
+      {
+        "timestamp": "2018-10-11T10:53:40+00:00",
+        "granularity": 10.0,
+        "value": 1.7290711007585025
+      },
+      {
+        "timestamp": "2018-10-11T11:10:20+00:00",
+        "granularity": 10.0,
+        "value": 2.034011677261039
+      },
+      {
+        "timestamp": "2018-10-11T11:27:00+00:00",
+        "granularity": 10.0,
+        "value": 1.8362372363422237
+      },
+      {
+        "timestamp": "2018-10-11T11:43:50+00:00",
+        "granularity": 10.0,
+        "value": 2.0549091535307573
+      },
+      {
+        "timestamp": "2018-10-11T12:00:20+00:00",
+        "granularity": 10.0,
+        "value": 1.8367224325242175
+      },
+      {
+        "timestamp": "2018-10-11T12:17:00+00:00",
+        "granularity": 10.0,
+        "value": 1.968277186571353
+      },
+      {
+        "timestamp": "2018-10-11T12:33:40+00:00",
+        "granularity": 10.0,
+        "value": 2.0696775483773178
+      },
+      {
+        "timestamp": "2018-10-11T12:36:10+00:00",
+        "granularity": 10.0,
+        "value": 6.997854657408407
+      },
+      {
+        "timestamp": "2018-10-11T12:36:20+00:00",
+        "granularity": 10.0,
+        "value": 4.201341488337226
+      },
+      {
+        "timestamp": "2018-10-11T12:36:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:36:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:10+00:00",
+        "granularity": 10.0,
+        "value": 5.062943640436493
+      },
+      {
+        "timestamp": "2018-10-11T12:37:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:37:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:10+00:00",
+        "granularity": 10.0,
+        "value": 4.985529500624438
+      },
+      {
+        "timestamp": "2018-10-11T12:38:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:38:30+00:00",
+        "granularity": 10.0,
+        "value": 97.36210872724016
+      },
+      {
+        "timestamp": "2018-10-11T12:38:40+00:00",
+        "granularity": 10.0,
+        "value": 4.3272158178283355
+      },
+      {
+        "timestamp": "2018-10-11T12:38:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:10+00:00",
+        "granularity": 10.0,
+        "value": 7.821675156480703
+      },
+      {
+        "timestamp": "2018-10-11T12:39:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:39:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:00+00:00",
+        "granularity": 10.0,
+        "value": 16.70395456524358
+      },
+      {
+        "timestamp": "2018-10-11T12:40:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:40:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:41:10+00:00",
+        "granularity": 10.0,
+        "value": 4.854214019599339
+      },
+      {
+        "timestamp": "2018-10-11T12:41:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:41:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:41:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:42:10+00:00",
+        "granularity": 10.0,
+        "value": 4.806833394353413
+      },
+      {
+        "timestamp": "2018-10-11T12:42:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:42:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:42:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:10+00:00",
+        "granularity": 10.0,
+        "value": 4.81129263841042
+      },
+      {
+        "timestamp": "2018-10-11T12:43:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:43:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:10+00:00",
+        "granularity": 10.0,
+        "value": 4.642607756215635
+      },
+      {
+        "timestamp": "2018-10-11T12:44:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:44:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:10+00:00",
+        "granularity": 10.0,
+        "value": 4.62788980651564
+      },
+      {
+        "timestamp": "2018-10-11T12:45:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:45:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:46:10+00:00",
+        "granularity": 10.0,
+        "value": 4.561679610432561
+      },
+      {
+        "timestamp": "2018-10-11T12:46:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:46:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:46:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:10+00:00",
+        "granularity": 10.0,
+        "value": 4.469162037083783
+      },
+      {
+        "timestamp": "2018-10-11T12:47:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:47:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:00+00:00",
+        "granularity": 10.0,
+        "value": 10.801424707918976
+      },
+      {
+        "timestamp": "2018-10-11T12:48:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:30+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:40+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:48:50+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:00+00:00",
+        "granularity": 10.0,
+        "value": 10.812618325585959
+      },
+      {
+        "timestamp": "2018-10-11T12:49:10+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      },
+      {
+        "timestamp": "2018-10-11T12:49:20+00:00",
+        "granularity": 10.0,
+        "value": 0.0
+      }
+    ]
+  }
+}

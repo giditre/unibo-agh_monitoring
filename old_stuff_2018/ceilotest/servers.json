@@ -1,0 +1,60 @@
+{
+  "servers": [
+    {
+      "id": "677e8042-71ce-41ea-97a9-1e55d498bf85",
+      "links": [
+        {
+          "href": "http://controller:8774/v2.1/servers/677e8042-71ce-41ea-97a9-1e55d498bf85",
+          "rel": "self"
+        },
+        {
+          "href": "http://controller:8774/servers/677e8042-71ce-41ea-97a9-1e55d498bf85",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "vm-3"
+    },
+    {
+      "id": "4f3fd134-f3f5-4587-8d23-7c7797a7c108",
+      "links": [
+        {
+          "href": "http://controller:8774/v2.1/servers/4f3fd134-f3f5-4587-8d23-7c7797a7c108",
+          "rel": "self"
+        },
+        {
+          "href": "http://controller:8774/servers/4f3fd134-f3f5-4587-8d23-7c7797a7c108",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "vm-2"
+    },
+    {
+      "id": "99bb368f-5265-4b18-98c1-7f6c0ca1d1fc",
+      "links": [
+        {
+          "href": "http://controller:8774/v2.1/servers/99bb368f-5265-4b18-98c1-7f6c0ca1d1fc",
+          "rel": "self"
+        },
+        {
+          "href": "http://controller:8774/servers/99bb368f-5265-4b18-98c1-7f6c0ca1d1fc",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "vm-1"
+    },
+    {
+      "id": "58b68764-43eb-47cc-a924-97c874f577f4",
+      "links": [
+        {
+          "href": "http://controller:8774/v2.1/servers/58b68764-43eb-47cc-a924-97c874f577f4",
+          "rel": "self"
+        },
+        {
+          "href": "http://controller:8774/servers/58b68764-43eb-47cc-a924-97c874f577f4",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "test-vm"
+    }
+  ]
+}

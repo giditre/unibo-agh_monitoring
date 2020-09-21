@@ -1,0 +1,57 @@
+[
+  {
+    "resource_id": "99bb368f-5265-4b18-98c1-7f6c0ca1d1fc",
+    "name": "instance-00000690",
+    "instance_display_name": "vm-1",
+    "metrics": [
+      {
+        "name": "cpu_util",
+        "id": "3648330e-e074-4c65-8bc2-73f499bd3765"
+      },
+      {
+        "name": "memory.usage",
+        "id": "998f94b8-dd88-436d-8b2e-2a5ec57072d0"
+      }
+    ]
+  },
+  {
+    "resource_id": "481dc57c-c2a2-524e-ac0c-b3b66c9eb05d",
+    "original_resource_id": "instance-0000068e-99bb368f-5265-4b18-98c1-7f6c0ca1d1fc-tapa7d76056-37",
+    "instance_display_name": "vm-1",
+    "name": "tapa7d76056-37",
+    "metrics": [
+      {
+        "name": "network.incoming.bytes.rate",
+        "id": "bd052dc0-61b2-4274-9442-59248f475fee"
+      }
+    ]
+  },
+  {
+    "resource_id": "4f3fd134-f3f5-4587-8d23-7c7797a7c108",
+    "name": "instance-0000068f",
+    "instance_display_name": "vm-2",
+    "metrics": [
+      {
+        "name": "cpu_util",
+        "id": "2568be8c-234c-4b77-9c8c-a27d7be635ea"
+      },
+      {
+        "name": "memory.usage",
+        "id": "6d8851c5-a6c1-4c54-8c23-e28fcdccacc1"
+      }
+    ]
+  },
+  {
+    "resource_id": "4fd7875b-68cb-5c19-8114-4487eee449ba",
+    "original_resource_id": "instance-0000068f-4f3fd134-f3f5-4587-8d23-7c7797a7c108-tap76686ca3-c7",
+    "instance_display_name": "vm-2",
+    "name": "tap76686ca3-c7",
+    "metrics": [
+      {
+        "name": "network.incoming.bytes.rate",
+        "id": "1d9fa69a-d1de-442d-9f09-4a87589e6cf3"
+      }
+    ]
+  }
+]
+

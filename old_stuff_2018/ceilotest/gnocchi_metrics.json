@@ -1,0 +1,111 @@
+[
+  {
+    "resource_id": "58b68764-43eb-47cc-a924-97c874f577f4",
+    "name": "instance-0000068d",
+    "instance_display_name": "test-vm",
+    "metrics": [
+      {
+        "name": "cpu_util",
+        "id": "10c3f8fa-27a7-4a2f-a8df-fc3276c67802"
+      },
+      {
+        "name": "memory.usage",
+        "id": "fb2cfe59-4e10-47e4-ac24-57e3457bf77b"
+      }
+    ]
+  },
+  {
+    "resource_id": "75cbae15-0cba-510a-935d-6aba8808f492",
+    "original_resource_id": "instance-0000068d-58b68764-43eb-47cc-a924-97c874f577f4-tap55d40b98-58",
+    "instance_display_name": "test-vm",
+    "name": "tap55d40b98-58",
+    "metrics": [
+      {
+        "name": "network.incoming.bytes.rate",
+        "id": "64718b36-52f4-472f-b7f5-cf3fd1c17e9b"
+      }
+    ]
+  },
+  {
+    "resource_id": "99bb368f-5265-4b18-98c1-7f6c0ca1d1fc",
+    "name": "instance-00000690",
+    "instance_display_name": "vm-1",
+    "metrics": [
+      {
+        "name": "cpu_util",
+        "id": "3648330e-e074-4c65-8bc2-73f499bd3765"
+      },
+      {
+        "name": "memory.usage",
+        "id": "998f94b8-dd88-436d-8b2e-2a5ec57072d0"
+      }
+    ]
+  },
+  {
+    "resource_id": "481dc57c-c2a2-524e-ac0c-b3b66c9eb05d",
+    "original_resource_id": "instance-0000068e-99bb368f-5265-4b18-98c1-7f6c0ca1d1fc-tapa7d76056-37",
+    "instance_display_name": "vm-1",
+    "name": "tapa7d76056-37",
+    "metrics": [
+      {
+        "name": "network.incoming.bytes.rate",
+        "id": "bd052dc0-61b2-4274-9442-59248f475fee"
+      }
+    ]
+  },
+  {
+    "resource_id": "4f3fd134-f3f5-4587-8d23-7c7797a7c108",
+    "name": "instance-0000068f",
+    "instance_display_name": "vm-2",
+    "metrics": [
+      {
+        "name": "cpu_util",
+        "id": "2568be8c-234c-4b77-9c8c-a27d7be635ea"
+      },
+      {
+        "name": "memory.usage",
+        "id": "6d8851c5-a6c1-4c54-8c23-e28fcdccacc1"
+      }
+    ]
+  },
+  {
+    "resource_id": "677e8042-71ce-41ea-97a9-1e55d498bf85",
+    "name": "instance-00000690",
+    "instance_display_name": "vm-3",
+    "metrics": [
+      {
+        "name": "cpu_util",
+        "id": "c1e5faa5-fa77-4eda-b153-3c3dcb62a04c"
+      },
+      {
+        "name": "memory.usage",
+        "id": "20f3dbeb-e9f0-4d15-876a-3f95ba50ca7d"
+      }
+    ]
+  },
+  {
+    "resource_id": "4fd7875b-68cb-5c19-8114-4487eee449ba",
+    "original_resource_id": "instance-0000068f-4f3fd134-f3f5-4587-8d23-7c7797a7c108-tap76686ca3-c7",
+    "instance_display_name": "vm-2",
+    "name": "tap76686ca3-c7",
+    "metrics": [
+      {
+        "name": "network.incoming.bytes.rate",
+        "id": "1d9fa69a-d1de-442d-9f09-4a87589e6cf3"
+      }
+    ]
+  },
+  {
+    "resource_id": "3e835f39-4942-5bd4-8a84-e117c7b8ec62",
+    "original_resource_id": "instance-00000690-677e8042-71ce-41ea-97a9-1e55d498bf85-tap21d36146-7e",
+    "instance_display_name": "vm-3",
+    "name": "tap21d36146-7e",
+    "metrics": [
+      {
+        "name": "network.incoming.bytes.rate",
+        "id": "94684be1-8344-4eca-b4a4-8fcfb15b3800"
+      }
+    ]
+  }
+]
+
