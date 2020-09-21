@@ -31,7 +31,8 @@ gnuplot -persist <<-EOF
   set nogrid
 
   plot "procd_netlab02_ovs20_1_rx.dat" using (\$1):(\$2*0.000001) with linespoints title "Total" lt 2 lc rgb "green" lw 6 pt 0, \
-       "procd_netlab02_ovs20_3_tx.dat" using (\$1):(\$2*0.000001) with linespoints title "Path1" lt 5 lc rgb "red" lw 6 pt 0
+       "procd_netlab02_ovs20_3_tx.dat" using (\$1):(\$2*0.000001) with linespoints title "Path1" lt 5 lc rgb "red" lw 6 pt 0, \
+       "procd_netlab02_ovs20_2_tx.dat" using (\$1):(\$2*0.000001) with linespoints title "Path2" lt 5 lc rgb "blue" lw 6 pt 0
 
 EOF
 
