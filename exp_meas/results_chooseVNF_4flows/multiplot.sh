@@ -32,6 +32,8 @@ gnuplot -persist <<-EOF
 
   plot "procd_netlab02_ovs20_3_tx.dat" using (\$1):(\$2*0.000001) with linespoints title "Total" lt 2 lc rgb "green" lw 6 pt 0, \
        "procd_netlab02_ovs20_11_tx.dat" using (\$1):(\$2*0.000001) with linespoints title "VNF1" lt 5 lc rgb "red" lw 6 pt 0, \
+       "procd_netlab02_ovs20_12_tx.dat" using (\$1):(\$2*0.000001) with linespoints title "VNF2" lt 4 lc rgb "blue" lw 6 pt 0, \
+      50 title "Thresh." lt 1 lc rgb "black" lw 2
 
 EOF
 
