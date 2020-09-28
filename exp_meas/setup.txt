@@ -1,0 +1,5 @@
+controller: 172.31.5.105
+host A: 172.31.4.156
+host B: 172.31.2.16
+
+TXs were generated from A to B. Link capacity was 1Gbps.
