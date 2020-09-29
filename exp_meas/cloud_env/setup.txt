@@ -1,5 +1,13 @@
-controller: 172.31.5.105
+N5-20:
+collector: 172.31.5.105
 host A: 172.31.4.156
 host B: 172.31.2.16
 
 TXs were generated from A to B. Link capacity was 1Gbps.
+
+N100,N200:
+collector: 172.31.47.182
+host A: 172.31.35.53
+host B: 172.31.38.178
+
+TXs: 172.31.35.53 to 172.31.38.178, patterns as described above. 
