@@ -16,8 +16,11 @@ json_fname_list = [fname for fname in argv[1:]]
 
 print(json_fname_list)
 
-src_ip = "172.31.4.156"
-dst_ip = "172.31.2.16"
+#src_ip = "172.31.4.156"
+#dst_ip = "172.31.2.16"
+
+src_ip = "172.31.35.53"
+dst_ip = "172.31.38.178"
 
 datarate_dict = {}
 
@@ -32,8 +35,9 @@ for json_fname in json_fname_list:
   for e in j:
     for f in e['flows']:
       # check if flow is between desired src and dst
-      #if f["inputPort"] == 2 and f["srcIP"] == src_ip and f["dstIP"] == dst_ip:
-      if f["inputPort"] == 1073741823 and f["srcIP"] == src_ip and f["dstIP"] == dst_ip:
+      #if f["srcIP"] == src_ip and f["dstIP"] == dst_ip:
+      if f["inputPort"] == 2 and f["srcIP"] == src_ip and f["dstIP"] == dst_ip:
+      #if f["inputPort"] == 1073741823 and f["srcIP"] == src_ip and f["dstIP"] == dst_ip:
         if first_t == -1:
           first_t = e["timestamp"]
         t = e["timestamp"] - first_t
