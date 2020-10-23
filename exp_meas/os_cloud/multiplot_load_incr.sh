@@ -1,6 +1,6 @@
 #!/bin/bash
 
-outfnamebase="os_load"
+outfnamebase="os_load_incr"
 
 fontsize=30
 
@@ -19,8 +19,8 @@ gnuplot -persist <<-EOF
   #set style fill solid 1.0
 
   set xlabel " Time [s] "
-  set xrange [0:180]
-  set xtics 0,20,180
+  set xrange [0:480]
+  set xtics 0,40,480
 
   set ylabel " Load [Gbit/s] "
   set yrange [0:12]
@@ -42,6 +42,6 @@ gnuplot -persist <<-EOF
 
   set nogrid
 
-  plot "results_os_ceilo_load.txt" using 1:3 with boxes axes x1y2 lt 1 lc 0 fs pattern 5, \
+  plot "results_os_ceilo_load_incr.txt" using 1:3 with boxes axes x1y2 lt 1 lc 0 fs pattern 5, \
        "" using (\$1):(\$5*0.000000001) with lines lt 1 lw 3 lc 0 axes x1y1
 EOF
